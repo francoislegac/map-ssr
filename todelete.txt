@@ -1,2 +1,0 @@
-Fiona @ file:///C:/Users/Fran%C3%A7oisLEGAC/Downloads/Fiona-1.8.20-cp38-cp38-win_amd64.whl
-GDAL @ file:///C:/Users/Fran%C3%A7oisLEGAC/Downloads/GDAL-3.3.3-cp38-cp38-win_amd64.whl
