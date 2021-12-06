@@ -16,14 +16,16 @@ departement_source = GeoJSONDataSource(geojson=departement.to_json())
 CRS = departement.crs
 coordght = pd.read_csv('data/coordght.csv', index_col=0)
 geometry = [Point(xy) for xy in zip(coordght.longitude, coordght.latitude)]
-etablissement = gpd.GeoDataFrame(coordght.drop(['longitude', 'latitude'], axis=1), crs=CRS, geometry=geometry)
-point_source = GeoJSONDataSource(geojson=etablissement.to_json())
-test = GeoJSONDataSource(geojson=
-    gpd.GeoDataFrame([], columns=columns, geometry=[])
-)
+etablissement = gpd.GeoDataFrame(coordght, crs=CRS, geometry=geometry)
+etablissement['x'] = etablissement['geometry'].x
+etablissement['y'] = etablissement['geometry'].y
+etablissement = etablissement.drop(['geometry'], axis=1)
+
+point_source = ColumnDataSource(data=etablissement)
+#point_source = GeoJSONDataSource(geojson=etablissement.to_json())
 
 p = figure(
-    title='New test map',
+    title='Bourgogne-Franche-Comté',
     x_axis_location=None, 
     y_axis_location=None,
     #sizing_mode='stretch_width',
@@ -54,7 +56,7 @@ text = p.text(
     'x',
     'y',
     #color='red',
-    text_font_size={'value':'5px'},
+    text_font_size={'value':'8px'},
     text='etablissement',
     source=point_source,
 )
@@ -112,25 +114,17 @@ def update_ght(attr, old, new):
     mc.value = ['']
     #update_etablissement()
     if select.value=='ALL':
-        filtre = etablissement
-    elif select.value=='--':
-        #filtre = gpd.GeoDataFrame([np.nan], columns=etablissement.columns, geometry=etablissement.geometry[0])
-        point_source = 
+        filtre = etablissement.copy()
     else:
         filtre = etablissement.loc[etablissement.nom_ght==select.value, :]
-    point_source.geojson = filtre.to_json()
+    point_source.data = filtre
 
 def update_etablissement(attr, old, new):
-    if mc.value == ['']:
-        pass 
-    #if type(mc.value) != list: list(mc.value) #not sure is necessary
-    else:
-        point_source.geojson = etablissement\
-        .loc[etablissement.etablissement.isin(mc.value), :].to_json()
-        table_source.data = flux.loc[flux.etablissement.isin(mc.value), :]
     #reinitialize ght filter
-    #select.value = '--'
-
+    select.value = '--'
+    point_source.data = etablissement\
+    .loc[etablissement.etablissement.isin(mc.value), :]
+    table_source.data = flux.loc[flux.etablissement.isin(mc.value), :]
 
 
 select.on_change('value', update_ght)
@@ -142,3 +136,4 @@ layout = row(p, widgets)
 
 #show(layout)
 curdoc().add_root(layout)
+curdoc().title = 'Cartographie SSR'
