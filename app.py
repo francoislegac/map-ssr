@@ -129,10 +129,10 @@ table = DataTable(
 )
 
 #define paragraph
-paragraph = Paragraph(text="""Your text is initialized with the 'text' argument.  The
-remaining Paragraph arguments are 'width' and 'height'. For this example, those values
-are 200 and 100, respectively.""",
-width=200, height=100)
+paragraph = Paragraph(text="""
+Source: https://www.scansante.fr/applications/flux-entre-etablissements-orfee
+""",
+width=300, height=100)
 
 #define vbar
 vbar_source = ColumnDataSource(data=dict(specialite=[], effectif_transfert=[]))
