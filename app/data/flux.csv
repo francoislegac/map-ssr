@@ -1,4 +1,4 @@
-,etablissement,categorie,code,specialite,provenance,effectif_transfert
+,nom_etab,categorie,code,specialite,provenance,effectif_transfert
 0,CH AUTUN SITE LATOUCHE,CH,X08,Pneumologie,CH AUTUN SITE PARPAS,30
 1,CH AUTUN SITE LATOUCHE,CH,X03,Neurologie medicale,CH AUTUN SITE PARPAS,30
 2,CH AUTUN SITE LATOUCHE,CH,X07,Affections cardio-vasculaires,CH AUTUN SITE PARPAS,16
