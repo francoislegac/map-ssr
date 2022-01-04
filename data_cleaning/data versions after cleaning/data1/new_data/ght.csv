@@ -1,0 +1,486 @@
+,nom_ght,code,groupe_plannification,nb_sejour_par_seance,nb_jour,transferts_ssr,pourcentage
+0,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X03,Neurologie ,2828,17255,394,"0,139321075"
+1,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X08,Pneumologie ,4237,31189,391,"0,092282275"
+2,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C09,"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule",637,4825,272,"0,42700157"
+3,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X07,Affections Cardio-vasculaires ,3266,18585,196,"0,060012247"
+4,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X06,Rhumatologie ,1279,9071,140,"0,109460516"
+5,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X05,"
+Traumatologie et ablation de matériel de l'appareil locomoteur",784,3208,128,"0,163265306"
+6,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X02,Hépato-Gastro-Entérologie ,3457,16128,107,"0,030951692"
+7,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X12,Uro-Néphrologie médicale (hors Séances),1377,6840,96,"0,069716776"
+8,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X20,Psychiatrie ,1775,9080,94,"0,052957746"
+9,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C11,"Chirurgies autres de l'appareil locomoteur, 
+amputations",964,4208,82,"0,085062241"
+10,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X16,"Affections et traumatismes de la peau, gelures",1255,5508,63 à 83,5% - 7% 
+11,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X21,"Effets nocifs, alcool, toxicologie, allergies",1328,5933,49 à 69,3% - 5% 
+12,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X14,"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID",1007,5957,49 à 59 ,5% - 6% 
+13,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C07,"Chir. Viscérale autre : rate, grêle, colon,
+ proctologie, hernies",688,2300,38,"0,055232558"
+14,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X18,"Suivi thérap. d'affections connues, Allergologie,
+ Rééducation, Convalescence",259,644,32 à 42 ,12% - 16% 
+15,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C06,"Chir. Digestive majeure : oesophage, 
+estomac, grêle, côlon, rectum",196,2557,32,"0,163265306"
+16,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X19,"Fièvre, Infection, Septicémie, VIH",450,2710,27 à 47,7% - 10% 
+17,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C14,Chirurgie vasculaire ,305,1997,27,"0,08852459"
+18,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C19,Chirurgie Urologique ,411,1915,20,"0,0486618"
+19,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X15,"Diabète, Maladies métaboliques,
+ Endocrinologie (hors complications)",792,4600,16 à 36,2% - 4%
+20,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C25,Chirurgie inter-spécialités,202,1611,13,"0,064356436"
+21,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X24,"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux",636,1683,11 à 51,2 - 7%
+22,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X22,Douleur et soins palliatifs ,477,5189,0 à 50 ,0% - 10%
+23,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X04,"Commotions cérébrales, Traumatismes crâniens",162,1052,0 à 30 ,0% - 19%
+24,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X13,Appareil génital masculin ,185,1455,0 à 30 ,0% - 17% 
+25,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X11,"Gynécologie, Sénologie (hors Obstétrique)",343,2018,0 à 30 ,0% - 9%
+26,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K12,"Explorations nocturnes, séjours de moins de 2 jours",392,392,0 à 30 ,0% - 8%
+27,GHT SÂONE-ET-LOIRE BRESSE MORVAN,O03,IVG,488,2586,0 à 30 ,0% - 6% 
+28,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X09,"ORL, Stomato",603,1520,0 à 30 ,0% - 5%
+29,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K02,"Endoscopies digestives et biliaires 
+avec ou sans anesthésie",1161,35,0 à 30 ,0% - 3%
+30,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X17,Brûlures,180,649,0 à 20 ,0% - 87%
+31,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K08,"Traumatologie avec acte classant non opératoire 
+ou anesthésie",276,914,0 à 20 ,0% - 32% 
+32,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K06,Mise ne place d'accès vasculaire ,314,889,0 à 20 ,0% - 13% 
+33,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X10 ,Ophtalmologie ,183,556,0 à 20 ,0%-11%
+34,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K10,"Aff. génito-urinaires avec Acte classant non opératoire 
+et endoscopies",327,1124,0 à 20 ,0% - 9% 
+35,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C13,"Stimulateurs, Défibrillateurs cardiaques",333,1722,0 à 20 ,0% - 7% 
+36,GHT SÂONE-ET-LOIRE BRESSE MORVAN,O02 ,Césarienne ,416,2468,0 à 20 ,0% - 5% 
+37,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C17,Chirurgie gynécologique ,361,510,0 à 20 ,0% - 5% 
+38,GHT SÂONE-ET-LOIRE BRESSE MORVAN,O04,Obstétrique autre ,407,966,0 à 20 ,0% - 3%
+39,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X23,Chimithérapie (hors séances) ,#REF!,#REF!,0 à 20 ,0% - 3%
+40,GHT SÂONE-ET-LOIRE BRESSE MORVAN,O01,Accouchement par voie basse ,446,2245,0 à 20 ,0% - 2%
+41,GHT SÂONE-ET-LOIRE BRESSE MORVAN,N02,"Aff. médicales des nouveaunés, prématurés et 
+de la période périnatale",445,2321,0 à 20 ,0% - 1%
+42,GHT SÂONE-ET-LOIRE BRESSE MORVAN,X25,Traumatismes multipes graves ,154,478,0 à 10,0% - 71% 
+43,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K15,"Autres séj. sans acte, avec anesthésie, 
+en ambulatoire (Aff. myéloP., peau, sein...)",137,11,0 à 10,0% - 59% 
+44,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K09,"ORL Stomato avec Acte classant non opératoire 
+et endoscopies",131,335,0 à 10,0% - 56% 
+45,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C23,"Parages de plaies, Greffes de peau, des Tissus S/C",108,731,0 à 10,0% - 45% 
+46,GHT SÂONE-ET-LOIRE BRESSE MORVAN,N03,"Mort-nés, décès et transferts précoces de nouveau-nés",107,573,0 à 10,0% - 36% 
+47,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K07,"Endoscopies bronchiques, avec ou sans anesthésie",107,573,0 à 10,0% - 27% 
+48,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K13,Dialyse (hors séance) ,105,40,0 à 10,0% - 18% 
+49,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C22,"Chirurgie de la Thyroide, Parathyroide, 
+du Tractus Thyréoglosse, endocrinologie",59,379,0 à 10,0% - 18% 
+50,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C21,"Chir. pour Aff. des Org. Hématopoiétiques,
+ Lymphomes, Leucémies, Tumeurs SID",57,209,0 à 10,0% - 17% 
+51,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C10 ,"Arthroscopies, Biopsies ostéo-articulaires",57,691,0 à 10,0% - 10% 
+52,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C18 ,Chirurgie su sein ,57,209,0 à 10,0% - 8% 
+53,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C15,"Chirurgie ORL, Stomato",57,691,0 à 10,0% - 6% 
+54,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C20,Chirurgie de l'appareil génital masculin ,107,573,0 à 10,0% - 4% 
+55,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C08,Chir. hépato-biliaire et pancréatique,105,40,0 à 10,0% - 4% 
+56,GHT SÂONE-ET-LOIRE BRESSE MORVAN,C16,Chirurgie Ophtalmologique et greffe de cornée,28,11,0 à 10,0% - 5% 
+57,GHT SÂONE-ET-LOIRE BRESSE MORVAN,K05 ,"Cathétérismes vasculaires diagnostiques
+ et interventionnels",571,1577,0 à 10,0% - 2% 
+58,GHT SÂONE-ET-LOIRE BRESSE MORVAN,S01,Dialyse ,13380,0,,/
+59,GHT SÂONE-ET-LOIRE BRESSE MORVAN,S02,Chimiothérapie pour tumeurs,9646,0,,/
+60,GHT SÂONE-ET-LOIRE BRESSE MORVAN,S03,Chimiothérapie pour aff. Non tumorale,2314,0,,/
+61,GHT SÂONE-ET-LOIRE BRESSE MORVAN,S05,Transfusions,1389,0,,/
+62,GHT SUD YONNE HAUT-NIVERNAIS,C09,"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule",494,4894,244,"0,493927126"
+63,GHT SUD YONNE HAUT-NIVERNAIS,X05,"
+Traumatologie et ablation de matériel de l'appareil locomoteur",431,2101,86 à 96,20%-23%
+64,GHT SUD YONNE HAUT-NIVERNAIS,X06,Rhumatologie ,767,5752,140,"0,182529335"
+65,GHT SUD YONNE HAUT-NIVERNAIS,X03,Neurologie ,1356,9900,203,"0,149705015"
+66,GHT SUD YONNE HAUT-NIVERNAIS,X24,"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux",707,3075,88 à 98,12%-14%
+67,GHT SUD YONNE HAUT-NIVERNAIS,C06,"Chir. Digestive majeure : oesophage, 
+estomac, grêle, côlon, rectum",175,2126,20,"0,114285714"
+68,GHT SUD YONNE HAUT-NIVERNAIS,X20,Psychiatrie ,492,3193,49 à 69,10%-14% 
+69,GHT SUD YONNE HAUT-NIVERNAIS,X04,"Commotions cérébrales, Traumatismes crâniens",209,784,20 à 30,10%-14%
+70,GHT SUD YONNE HAUT-NIVERNAIS,C25,Chirurgie inter-spécialités,120,932,12,"0,1"
+71,GHT SUD YONNE HAUT-NIVERNAIS,X19,"Fièvre, Infection, Septicémie, VIH",235,1725,20 à 50,9%-21%
+72,GHT SUD YONNE HAUT-NIVERNAIS,X07,Affections Cardio-vasculaires ,2167,12945,185,"0,085371481"
+73,GHT SUD YONNE HAUT-NIVERNAIS,C11,"Chirurgies autres de l'appareil locomoteur, 
+amputations",739,2718,64,"0,086603518"
+74,GHT SUD YONNE HAUT-NIVERNAIS,X08,Pneumologie ,2536,20777,215,"0,08477918"
+75,GHT SUD YONNE HAUT-NIVERNAIS,C14,Chirurgie vasculaire ,201,857,16,"0,07960199"
+76,GHT SUD YONNE HAUT-NIVERNAIS,X16,"Affections et traumatismes de la peau, gelures",701,3547,41 à 61,6%-9% 
+77,GHT SUD YONNE HAUT-NIVERNAIS,X18,"Suivi thérap. d'affections connues, Allergologie,
+ Rééducation, Convalescence",239,566,13 à 23 ,5%-10%
+78,GHT SUD YONNE HAUT-NIVERNAIS,X15,"Diabète, Maladies métaboliques,
+ Endocrinologie (hors complications)",792,4273,41 à 61,5%-8%
+79,GHT SUD YONNE HAUT-NIVERNAIS,X14,"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID",710,4904,36 à 56,5%-8%
+80,GHT SUD YONNE HAUT-NIVERNAIS,X21,"Effets nocifs, alcool, toxicologie, allergies",1456,5855,68 à 108,5%-7% 
+81,GHT SUD YONNE HAUT-NIVERNAIS,X12,Uro-Néphrologie médicale (hors Séances),923,5838,46 à 66,5%-7%
+82,GHT SUD YONNE HAUT-NIVERNAIS,X23,Chimithérapie (hors séances) ,828,2593,41,"0,049516908"
+83,GHT SUD YONNE HAUT-NIVERNAIS,X02,Hépato-Gastro-Entérologie ,2548,12326,94 à 114,3%-5% 
+84,GHT SUD YONNE HAUT-NIVERNAIS,C13,"Stimulateurs, Défibrillateurs cardiaques",384,1223,13,"0,033854167"
+85,GHT SUD YONNE HAUT-NIVERNAIS,K05 ,"Cathétérismes vasculaires diagnostiques
+ et interventionnels",1713,4868,18,"0,010507881"
+86,GHT SUD YONNE HAUT-NIVERNAIS,X09,"ORL, Stomato",332,1256,0 à 40 ,0%-12% 
+87,GHT SUD YONNE HAUT-NIVERNAIS,X22,Douleur et soins palliatifs ,164,3055,0 à 30 ,0%-18%
+88,GHT SUD YONNE HAUT-NIVERNAIS,X10 ,Ophtalmologie ,57,158,0 à 20 ,0%-35%
+89,GHT SUD YONNE HAUT-NIVERNAIS,X13,Appareil génital masculin ,75,408,0 à 20 ,0%-27% 
+90,GHT SUD YONNE HAUT-NIVERNAIS,K12,"Explorations nocturnes, séjours de moins de 2 jours",336,336,0 à 20 ,0%-6%
+91,GHT SUD YONNE HAUT-NIVERNAIS,O03,IVG,374,29,0 à 20 ,0%-5%
+92,GHT SUD YONNE HAUT-NIVERNAIS,X26,Chirurgie esthétique et de confort ,14,0,0 à 10,0%-71%
+93,GHT SUD YONNE HAUT-NIVERNAIS,C23,"Parages de plaies, Greffes de peau, des Tissus S/C",17,43,0 à 10,0%-59%
+94,GHT SUD YONNE HAUT-NIVERNAIS,C15,"Chirurgie ORL, Stomato",17,20,0 à 10,0%-59%
+95,GHT SUD YONNE HAUT-NIVERNAIS,C22,"Chirurgie de la Thyroide, Parathyroide, 
+du Tractus Thyréoglosse, endocrinologie",21,77,0 à 10,0%-48%
+96,GHT SUD YONNE HAUT-NIVERNAIS,K15,"Autres séj. sans acte, avec anesthésie, 
+en ambulatoire (Aff. myéloP., peau, sein...)",24,0,0 à 10,0%-42%
+97,GHT SUD YONNE HAUT-NIVERNAIS,C21,"Chir. pour Aff. des Org. Hématopoiétiques,
+ Lymphomes, Leucémies, Tumeurs SID",36,150,0 à 10,0%-28%
+98,GHT SUD YONNE HAUT-NIVERNAIS,N03,"Mort-nés, décès et transferts précoces de nouveau-nés",43,21,0 à 10,0%-23%
+99,GHT SUD YONNE HAUT-NIVERNAIS,K13,Dialyse (hors séance) ,50,570,0 à 10,0%-20%
+100,GHT SUD YONNE HAUT-NIVERNAIS,K04,"Aff. Cardio-vasculaire avec Acte classant 
+non opératoire, ou anesthésie",50,0,0 à 10,0%-20%
+101,GHT SUD YONNE HAUT-NIVERNAIS,X11,"Gynécologie, Sénologie (hors Obstétrique)",76,336,0 à 10,0%-13%
+102,GHT SUD YONNE HAUT-NIVERNAIS,C10 ,"Arthroscopies, Biopsies ostéo-articulaires",111,29,0 à 10,0%-9%
+103,GHT SUD YONNE HAUT-NIVERNAIS,K10,"Aff. génito-urinaires avec Acte classant non opératoire 
+et endoscopies",126,8,0 à 10,0%-8%
+104,GHT SUD YONNE HAUT-NIVERNAIS,C18 ,Chirurgie su sein ,149,197,0 à 10,0%-7%
+105,GHT SUD YONNE HAUT-NIVERNAIS,O02 ,Césarienne ,159,934,0 à 10,0%-6%
+106,GHT SUD YONNE HAUT-NIVERNAIS,C08,Chir. hépato-biliaire et pancréatique,188,362,0 à 10,0%-5%
+107,GHT SUD YONNE HAUT-NIVERNAIS,K06,Mise en place d'accès vasculaire ,235,11,0 à 10,0%-4%
+108,GHT SUD YONNE HAUT-NIVERNAIS,C20,Chirurgie de l'appareil génital masculin ,245,670,0 à 10,0%-4%
+109,GHT SUD YONNE HAUT-NIVERNAIS,C19,Chirurgie Urologique ,481,1682,0 à 10,0%-2%
+110,GHT SUD YONNE HAUT-NIVERNAIS,C17,Chirurgie gynécologique ,558,824,0 à 10,0%-2% 
+111,GHT SUD YONNE HAUT-NIVERNAIS,O04,Obstétrique autre ,579,1009,0 à 10,0%-2% 
+112,GHT SUD YONNE HAUT-NIVERNAIS,K02,"Endoscopies digestives et biliaires 
+avec ou sans anesthésie",622,38,0 à 10,0%-2% 
+113,GHT SUD YONNE HAUT-NIVERNAIS,C07,"Chir. Viscérale autre : rate, grêle, colon,
+ proctologie, hernies",669,1641,0 à 10,0%-1%
+114,GHT SUD YONNE HAUT-NIVERNAIS,O01,Accouchement par voie basse ,1674,6710,0 à 10,0%-1%
+115,GHT SUD YONNE HAUT-NIVERNAIS,N02,"Aff. médicales des nouveaunés, prématurés et 
+de la période périnatale",1851,8277,0 à 10,0%-1%
+116,GHT SUD YONNE HAUT-NIVERNAIS,S01,Dialyse ,7642,0,,/
+117,GHT SUD YONNE HAUT-NIVERNAIS,S02,Chimiothérapie pour tumeurs,6557,0,,/
+118,GHT SUD YONNE HAUT-NIVERNAIS,S03,Chimiothérapie pour aff. Non tumorale,1046,#REF!,,/
+119,GHT SUD YONNE HAUT-NIVERNAIS,S05,Transfusions,575,0,,/
+120,GHT SUD YONNE HAUT-NIVERNAIS,S06,Aphérèse ,212,0,,
+121,GHT CÔTE D'OR - HAUTE MARNE,X08,Pneumologie ,7971,52853,614 à 624,"0,078283779"
+122,GHT CÔTE D'OR - HAUTE MARNE,C09,"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule",1108,7921,525,"0,473826715"
+123,GHT CÔTE D'OR - HAUTE MARNE,X03,Neurologie ,5929,27571,464 à 474,"0,079946028"
+124,GHT CÔTE D'OR - HAUTE MARNE,X07,Affections Cardio-vasculaires ,5412,28675,408 à 418 ,"0,077235772"
+125,GHT CÔTE D'OR - HAUTE MARNE,X06,Rhumatologie ,3296,15664,282 à 292 ,"0,088592233"
+126,GHT CÔTE D'OR - HAUTE MARNE,C11,"Chirurgies autres de l'appareil locomoteur, 
+amputations",2248,8715,205,"0,091192171"
+127,GHT CÔTE D'OR - HAUTE MARNE,X02,Hépato-Gastro-Entérologie ,7082,28034,182 à 232,2%-3%
+128,GHT CÔTE D'OR - HAUTE MARNE,X20,Psychiatrie ,2110,8933,173 à 203 ,8%-10%
+129,GHT CÔTE D'OR - HAUTE MARNE,X05,"
+Traumatologie et ablation de matériel de l'appareil locomoteur",#REF!,#REF!,153 à 163,14%-15%
+130,GHT CÔTE D'OR - HAUTE MARNE,C02,"Chirurgie du rachis, Neuro-chirurgie",#REF!,#REF!,#REF!,#REF!
+131,GHT CÔTE D'OR - HAUTE MARNE,X12,Uro-Néphrologie médicale (hors Séances),2887,11402,137 à 177,5%-6%
+132,GHT CÔTE D'OR - HAUTE MARNE,C04,"Chir. cardio-thoracique (hors transplant. d'organe), 
+Pontages aorto-coronariens",812,9913,124,"0,15270936"
+133,GHT CÔTE D'OR - HAUTE MARNE,X24,"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux",3962,6622,99 à 139,2%-4%
+134,GHT CÔTE D'OR - HAUTE MARNE,X16,"Affections et traumatismes de la peau, gelures",3473,8664,92 à 122,3%-4%
+135,GHT CÔTE D'OR - HAUTE MARNE,X21,"Effets nocifs, alcool, toxicologie, allergies",3730,11075,91 à 141 ,2%-4%
+136,GHT CÔTE D'OR - HAUTE MARNE,K05 ,"Cathétérismes vasculaires diagnostiques
+ et interventionnels",4184,13988,81 à 91 ,"0,021749522"
+137,GHT CÔTE D'OR - HAUTE MARNE,X14,"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID",3704,14028,75 à 135 ,2%-4%
+138,GHT CÔTE D'OR - HAUTE MARNE,C06,"Chir. Digestive majeure : oesophage, estomac, grêle, côlon, rectum",599,7538,71 à 81 ,12%-14%
+139,GHT CÔTE D'OR - HAUTE MARNE,C14,Chirurgie vasculaire ,493,4558,54,"0,109533469"
+140,GHT CÔTE D'OR - HAUTE MARNE,X15,"Diabète, Maladies métaboliques,
+ Endocrinologie (hors complications)",2767,10028,50 à 110 ,2%-4%
+141,GHT CÔTE D'OR - HAUTE MARNE,C05,"Chir. majeure sur le thorax, l'app. respiratoire,
+interventions sous thoracoscopie",582,5651,41,"0,070446735"
+142,GHT CÔTE D'OR - HAUTE MARNE,C12,Traumatismes multiples graves,97,1761,37,"0,381443299"
+143,GHT CÔTE D'OR - HAUTE MARNE,C07,"Chir. Viscérale autre : rate, grêle, colon,
+ proctologie, hernies",1308,4479,35 à 45 ,"0,03440367"
+144,GHT CÔTE D'OR - HAUTE MARNE,C19,Chirurgie Urologique ,1024,4116,30 à 40 ,3%-4%
+145,GHT CÔTE D'OR - HAUTE MARNE,C25,Chirurgie inter-spécialités,863,3381,28 à 38 ,3%-4%
+146,GHT CÔTE D'OR - HAUTE MARNE,C17,Chirurgie gynécologique ,1544,2448,24 à 44,2%-3%
+147,GHT CÔTE D'OR - HAUTE MARNE,X23,Chimithérapie (hors séances) ,1176,6033,19,"0,016156463"
+148,GHT CÔTE D'OR - HAUTE MARNE,X19,"Fièvre, Infection, Septicémie, VIH",937,3879,18 à 78,2%-8%
+149,GHT CÔTE D'OR - HAUTE MARNE,C13,"Stimulateurs, Défibrillateurs cardiaques",453,1601,16 à 36,3%-8%
+150,GHT CÔTE D'OR - HAUTE MARNE,X04,"Commotions cérébrales, Traumatismes crâniens",1174,2657,14 à 74,1%-6%
+151,GHT CÔTE D'OR - HAUTE MARNE,C08,Chir. hépato-biliaire et pancréatique,521,3302,14 à 24 ,3%-5%
+152,GHT CÔTE D'OR - HAUTE MARNE,X18,"Suivi thérap. d'affections connues, Allergologie,
+ Rééducation, Convalescence",1586,1144,11 à 71,1%-4%
+153,GHT CÔTE D'OR - HAUTE MARNE,C23,"Parages de plaies, Greffes de peau, des Tissus S/C",397,1191,11 à 21 ,3%-5%
+154,GHT CÔTE D'OR - HAUTE MARNE,X22,Douleur et soins palliatifs ,449,2612,0 à 70 ,0%-16%
+155,GHT CÔTE D'OR - HAUTE MARNE,X13,Appareil génital masculin ,389,1800,0 à 60 ,0%-15%
+156,GHT CÔTE D'OR - HAUTE MARNE,X09,"ORL, Stomato",1602,3738,0 à 60 ,0%-4%
+157,GHT CÔTE D'OR - HAUTE MARNE,X11,"Gynécologie, Sénologie (hors Obstétrique)",278,951,0 à 40,0%-14%
+158,GHT CÔTE D'OR - HAUTE MARNE,O03,IVG,1019,30,0 à 40 ,0%-4%
+159,GHT CÔTE D'OR - HAUTE MARNE,K10,"Aff. génito-urinaires avec Acte classant non opératoire 
+et endoscopies",395,56,0 à 30 ,0%-8%
+160,GHT CÔTE D'OR - HAUTE MARNE,K12,"Explorations nocturnes, séjours de moins de 2 jours",578,562,0 à 30 ,0%-5%
+161,GHT CÔTE D'OR - HAUTE MARNE,O02 ,Césarienne ,660,4707,0 à 30 ,0%-5% 
+162,GHT CÔTE D'OR - HAUTE MARNE,K09,"ORL Stomato avec Acte classant non opératoire 
+et endoscopies",741,23,0 à 30 ,0%-4% 
+163,GHT CÔTE D'OR - HAUTE MARNE,X10 ,Ophtalmologie ,963,1802,0 à 30 ,0%-3%
+164,GHT CÔTE D'OR - HAUTE MARNE,O04,Obstétrique autre ,1913,3974,0 à 30 ,0%-2%
+165,GHT CÔTE D'OR - HAUTE MARNE,K02,"Endoscopies digestives et biliaires 
+avec ou sans anesthésie",1846,285,0 à 30 ,0%-2%
+166,GHT CÔTE D'OR - HAUTE MARNE,O01,Accouchement par voie basse ,3504,14621,0 à 30 ,0%-1%
+167,GHT CÔTE D'OR - HAUTE MARNE,N02,"Aff. médicales des nouveaunés, prématurés et 
+de la période périnatale",4304,23944,0 à 30 ,0%-1%
+168,GHT CÔTE D'OR - HAUTE MARNE,K04,"Aff. Cardio-vasculaire avec Acte classant non opératoire, ou anesthésie",41,0,0 à 20 ,0%-49%
+169,GHT CÔTE D'OR - HAUTE MARNE,K08,"Traumatologie avec acte classant non opératoire 
+ou anesthésie",106,33,0 à 20 ,0%-19%
+170,GHT CÔTE D'OR - HAUTE MARNE,N03,"Mort-nés, décès et transferts précoces de nouveau-nés",105,147,0 à 20 ,0%-19%
+171,GHT CÔTE D'OR - HAUTE MARNE,C20,Chirurgie de l'appareil génital masculin ,554,1041,0 à 20 ,0%-4%
+172,GHT CÔTE D'OR - HAUTE MARNE,C15,"Chirurgie ORL, Stomato",1004,3542,0 à 20 ,0%-2%
+173,GHT CÔTE D'OR - HAUTE MARNE,C16,Chirurgie Ophtalmologique et greffe de cornée,3461,618,0 à 20 ,0%-1%
+174,GHT CÔTE D'OR - HAUTE MARNE,X17,Brûlures,20,56,0 à 10,0%-50%
+175,GHT CÔTE D'OR - HAUTE MARNE,K14,Radiothérapie (Hors séances) ,28,55,0 à 10,0%_36%
+176,GHT CÔTE D'OR - HAUTE MARNE,C01,Transplant. d'organes (hors greffes de moelle & cornée),42,947,0 à 10,0%-24%
+177,GHT CÔTE D'OR - HAUTE MARNE,X26,Chirurgie esthétique et de confort,43,19,0 à 10,0%-23%
+178,GHT CÔTE D'OR - HAUTE MARNE,N01,"Chirurgie des nouveau-nés, prématurés et de la période périnatale",45,2108,0 à 10,0%-22%
+179,GHT CÔTE D'OR - HAUTE MARNE,K13,Dialyse (hors séance) ,45,497,0 à 10,0%-22%
+180,GHT CÔTE D'OR - HAUTE MARNE,X25,Traumatismes multipes graves ,52,396,0 à 10,0%-19%
+181,GHT CÔTE D'OR - HAUTE MARNE,C03,Neurostimulateurs,61,157,0 à 10,0%-16%
+182,GHT CÔTE D'OR - HAUTE MARNE,K07,"Endoscopies bronchiques, avec ou sans anesthésie",70,0,0 à 10,0%-14%
+183,GHT CÔTE D'OR - HAUTE MARNE,K01,"Hépato-Gastro-Entérologie, sans acte opératoire, avec anesthésie",80,118,0 à 10,0%-13%
+184,GHT CÔTE D'OR - HAUTE MARNE,X01,"Greffe de moelle, Auto et Allogreffes de cellules souches",94,1696,0 à 10,0%-11%
+185,GHT CÔTE D'OR - HAUTE MARNE,C10 ,"Arthroscopies, Biopsies ostéo-articulaires",107,77,0 à 10,0%-9%
+186,GHT CÔTE D'OR - HAUTE MARNE,C18 ,Chirurgie su sein ,114,80,0 à 10,0%-9%
+187,GHT CÔTE D'OR - HAUTE MARNE,K15,"Autres séj. sans acte, avec anesthésie, 
+en ambulatoire (Aff. myéloP., peau, sein...)",167,0,0 à 10,0%-6%
+188,GHT CÔTE D'OR - HAUTE MARNE,C21,"Chir. pour Aff. des Org. Hématopoiétiques,
+ Lymphomes, Leucémies, Tumeurs SID",163,1426,0 à 10,0%-6%
+189,GHT CÔTE D'OR - HAUTE MARNE,C22,"Chirurgie de la Thyroide, Parathyroide, 
+du Tractus Thyréoglosse, endocrinologie",344,803,0 à 10,0%-3%
+190,GHT CÔTE D'OR - HAUTE MARNE,K06,Mise ne place d'accès vasculaire ,483,26,0 à 10,0%-2%
+191,GHT CÔTE D'OR - HAUTE MARNE,K03,"Neurologie médicale avec Acte classant 
+non opératoire, ou anesthésie",1024,0,0 à 10,0%-1%
+192,GHT CÔTE D'OR - HAUTE MARNE,S01,Dialyse ,16268,0,,/
+193,GHT CÔTE D'OR - HAUTE MARNE,S02,Chimiothérapie pour tumeurs,18615,0,,/
+194,GHT CÔTE D'OR - HAUTE MARNE,S03,Chimiothérapie pour aff. Non tumorale,6171,0,,/
+195,GHT CÔTE D'OR - HAUTE MARNE,S05,Transfusions,3636,0,,/
+196,GHT CÔTE D'OR - HAUTE MARNE,S06,Aphérèse ,164,0,,/
+197,GHT SUD CÔTE-D'OR,C09,"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule",1025,7947,599,"0,584390244"
+198,GHT SUD CÔTE-D'OR,X08,Pneumologie ,4221,26815,343 à 373,8%-9%
+199,GHT SUD CÔTE-D'OR,X03,Neurologie ,2057,10598,232 à 262,11%-13%
+200,GHT SUD CÔTE-D'OR,X06,Rhumatologie ,1165,7751,197 à 217 ,17%-19%
+201,GHT SUD CÔTE-D'OR,X07,Affections Cardio-vasculaires ,3304,14979,191 à 221,6%-7%
+202,GHT SUD CÔTE-D'OR,X05,"
+Traumatologie et ablation de matériel de l'appareil locomoteur",596,3244,172 à 182 ,29%-31%
+203,GHT SUD CÔTE-D'OR,X02,Hépato-Gastro-Entérologie ,3008,14710,141 à 171,5%-6%
+204,GHT SUD CÔTE-D'OR,C11,"Chirurgies autres de l'appareil locomoteur, 
+amputations",1400,2911,104,"0,074285714"
+205,GHT SUD CÔTE-D'OR,X24,"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux",1138,4115,101 à 121 ,9%-11%
+206,GHT SUD CÔTE-D'OR,X20,Psychiatrie ,1210,6730,95 à 125,8%-10%
+207,GHT SUD CÔTE-D'OR,X16,"Affections et traumatismes de la peau, gelures",1164,4836,87 à 117 ,7%-10%
+208,GHT SUD CÔTE-D'OR,X12,Uro-Néphrologie médicale (hors Séances),1363,6362,87 à 117,6%-9%
+209,GHT SUD CÔTE-D'OR,C06,"Chir. Digestive majeure : oesophage, 
+estomac, grêle, côlon, rectum",#REF!,#REF!,#REF!,#REF!
+210,GHT SUD CÔTE-D'OR,K05 ,"Cathétérismes vasculaires diagnostiques
+ et interventionnels",1962,5953,49 à 59 ,2%-3%
+211,GHT SUD CÔTE-D'OR,X14,"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID",845,4317,45 à 75 ,5%-9%
+212,GHT SUD CÔTE-D'OR,C07,"Chir. Viscérale autre : rate, grêle, colon,
+ proctologie, hernies",938,2796,39,"0,041577825"
+213,GHT SUD CÔTE-D'OR,X15,"Diabète, Maladies métaboliques,
+ Endocrinologie (hors complications)",870,4344,33 à 63 ,4%-7%
+214,GHT SUD CÔTE-D'OR,X04,"Commotions cérébrales, Traumatismes crâniens",255,1260,33,"0,129411765"
+215,GHT SUD CÔTE-D'OR,X21,"Effets nocifs, alcool, toxicologie, allergies",1122,3918,33,"0,029411765"
+216,GHT SUD CÔTE-D'OR,X19,"Fièvre, Infection, Septicémie, VIH",408,2377,30 à 40 ,7%-10%
+217,GHT SUD CÔTE-D'OR,C25,Chirurgie inter-spécialités,370,1693,30,"0,081081081"
+218,GHT SUD CÔTE-D'OR,C02,"Chirurgie du rachis, Neuro-chirurgie",68,525,24,"0,352941176"
+219,GHT SUD CÔTE-D'OR,C08,Chir. hépato-biliaire et pancréatique,362,1845,23,"0,063535912"
+220,GHT SUD CÔTE-D'OR,C14,Chirurgie vasculaire ,220,1228,20 à 30 ,9%-14%
+221,GHT SUD CÔTE-D'OR,X22,Douleur et soins palliatifs ,653,5550,18 à 58,3%-9%
+222,GHT SUD CÔTE-D'OR,X09,"ORL, Stomato",688,1793,12 à 22 ,2%-3%
+223,GHT SUD CÔTE-D'OR,X18,"Suivi thérap. d'affections connues, Allergologie,
+ Rééducation, Convalescence",243,709,11 à 31 ,5%-13%
+224,GHT SUD CÔTE-D'OR,K07,"Endoscopies bronchiques, avec ou sans anesthésie",36,0,0 à 20 ,0%-56%
+225,GHT SUD CÔTE-D'OR,C21,"Chir. pour Aff. des Org. Hématopoiétiques,
+ Lymphomes, Leucémies, Tumeurs SID",44,173,0 à 20 ,0%-4(%
+226,GHT SUD CÔTE-D'OR,N03,"Mort-nés, décès et transferts précoces de nouveau-nés",50,26,0 à 20 ,0%-40%
+227,GHT SUD CÔTE-D'OR,K08,"Traumatologie avec acte classant non opératoire 
+ou anesthésie",62,6,0 à 20 ,0%-32%
+228,GHT SUD CÔTE-D'OR,K15,"Autres séj. sans acte, avec anesthésie, 
+en ambulatoire (Aff. myéloP., peau, sein...)",66,0,0 à 20 ,0%-30%
+229,GHT SUD CÔTE-D'OR,C23,"Parages de plaies, Greffes de peau, des Tissus S/C",108,116,0 à 20 ,0%-19%
+230,GHT SUD CÔTE-D'OR,X11,"Gynécologie, Sénologie (hors Obstétrique)",125,452,0 à 20 ,0%-16%
+231,GHT SUD CÔTE-D'OR,C13,"Stimulateurs, Défibrillateurs cardiaques",168,657,0 à 20 ,0%-12%
+232,GHT SUD CÔTE-D'OR,K12,"Explorations nocturnes, séjours de moins de 2 jours",167,167,0 à 20 ,0%-12%
+233,GHT SUD CÔTE-D'OR,K06,Mise ne place d'accès vasculaire ,165,6,0 à 20 ,0%-12%
+234,GHT SUD CÔTE-D'OR,X10 ,Ophtalmologie ,162,517,0 à 20 ,0%-12%
+235,GHT SUD CÔTE-D'OR,C15,"Chirurgie ORL, Stomato",204,165,0 à 20 ,0%-10%
+236,GHT SUD CÔTE-D'OR,X23,Chimithérapie (hors séances) ,229,546,0 à 20 ,0%-9%
+237,GHT SUD CÔTE-D'OR,X13,Appareil génital masculin ,218,1212,0 à  20 ,0%-9%
+238,GHT SUD CÔTE-D'OR,K10,"Aff. génito-urinaires avec Acte classant non opératoire 
+et endoscopies",215,17,0 à 20 ,0%-9%
+239,GHT SUD CÔTE-D'OR,C20,Chirurgie de l'appareil génital masculin ,215,660,0 à 20 ,0%-9%
+240,GHT SUD CÔTE-D'OR,O02 ,Césarienne ,298,1939,0 à 20 ,0%-7%
+241,GHT SUD CÔTE-D'OR,C10 ,"Arthroscopies, Biopsies ostéo-articulaires",283,57,0 à 20 ,0%-7%
+242,GHT SUD CÔTE-D'OR,C19,Chirurgie Urologique ,276,1296,0 à 20 ,0%-7%
+243,GHT SUD CÔTE-D'OR,C17,Chirurgie gynécologique ,346,501,0 à 20 ,0%-6%
+244,GHT SUD CÔTE-D'OR,K09,"ORL Stomato avec Acte classant non opératoire 
+et endoscopies",333,11,0 à 20 ,0%-6%
+245,GHT SUD CÔTE-D'OR,O03,IVG,419,3,0 à 20 ,0%-5%
+246,GHT SUD CÔTE-D'OR,O04,Obstétrique autre ,696,1128,0 à 20 ,0%-3%
+247,GHT SUD CÔTE-D'OR,C16,Chirurgie Ophtalmologique et greffe de cornée,678,55,0 à 20 ,0%-3%
+248,GHT SUD CÔTE-D'OR,K02,"Endoscopies digestives et biliaires 
+avec ou sans anesthésie",2062,102,0 à 20 ,0%-1%
+249,GHT SUD CÔTE-D'OR,N02,"Aff. médicales des nouveaunés, prématurés et 
+de la période périnatale",2019,8510,0 à 20 ,0%-1%
+250,GHT SUD CÔTE-D'OR,O01,Accouchement par voie basse ,1701,6612,0 à 20 ,0%-1%
+251,GHT SUD CÔTE-D'OR,C18 ,Chirurgie su sein ,31,46,0 à 10,"0,322580645"
+252,GHT SUD CÔTE-D'OR,K13,Dialyse (hors séance) ,37,267,0 à 10,"0,27027027"
+253,GHT SUD CÔTE-D'OR,C22,"Chirurgie de la Thyroide, Parathyroide, 
+du Tractus Thyréoglosse, endocrinologie",80,154,0 à 10,"0,125"
+254,GHT SUD CÔTE-D'OR,K04,"Aff. Cardio-vasculaire avec Acte classant non opératoire, ou anesthésie",91,0,0 à 10,"0,10989011"
+255,GHT SUD CÔTE-D'OR,K03,"Neurologie médicale avec Acte classant 
+non opératoire, ou anesthésie",265,0,0 à 10,"0,037735849"
+256,GHT SUD CÔTE-D'OR,S01,Dialyse ,9356,0,,/
+257,GHT SUD CÔTE-D'OR,S02,Chimiothérapie pour tumeurs,4277,0,,/
+258,GHT SUD CÔTE-D'OR,S03,Chimiothérapie pour aff. Non tumorale,1881,0,,/
+259,GHT SUD CÔTE-D'OR,S05,Transfusions,874,0,,/
+260,GHT DE LA NIEVRE,C09,"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule",610,5372,275,"0,450819672"
+261,GHT DE LA NIEVRE,X03,Neurologie ,1430,9851,217 à 237,15%-17%
+262,GHT DE LA NIEVRE,X08,Pneumologie ,2599,21304,173 à 203 ,7%-8%
+263,GHT DE LA NIEVRE,X07,Affections Cardio-vasculaires ,2266,16989,148 à 158,"0,06972639"
+264,GHT DE LA NIEVRE,X20,Psychiatrie ,893,5894,99 à 129,11%-14%
+265,GHT DE LA NIEVRE,X06,Rhumatologie ,668,5081,98 à 128,15%-19%
+266,GHT DE LA NIEVRE,X05,"
+Traumatologie et ablation de matériel de l'appareil locomoteur",342,1762,78 à 88,23%-26%
+267,GHT DE LA NIEVRE,X02,Hépato-Gastro-Entérologie ,2632,14762,76 à 116,3%-4%
+268,GHT DE LA NIEVRE,C11,"Chirurgies autres de l'appareil locomoteur, 
+amputations",#REF!,#REF!,61 à 71,8%-10%
+269,GHT DE LA NIEVRE,X15,"Diabète, Maladies métaboliques,
+ Endocrinologie (hors complications)",988,7155,56 à 106,6%-11%
+270,GHT DE LA NIEVRE,X21,"Effets nocifs, alcool, toxicologie, allergies",875,2894,56 à 66,6%-8%
+271,GHT DE LA NIEVRE,X18,"Suivi thérap. d'affections connues, Allergologie,
+ Rééducation, Convalescence",255,1281,46 à 56 ,18%-22%
+272,GHT DE LA NIEVRE,X14,"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID",774,5892,38 à 68,5%-9%
+273,GHT DE LA NIEVRE,X12,Uro-Néphrologie médicale (hors Séances),855,5182,29 à 69,3%-8%
+274,GHT DE LA NIEVRE,X16,"Affections et traumatismes de la peau, gelures",681,4063,24 à 54,4%-8%
+275,GHT DE LA NIEVRE,C14,Chirurgie vasculaire ,425,2883,23,"0,054117647"
+276,GHT DE LA NIEVRE,K05 ,"Cathétérismes vasculaires diagnostiques
+ et interventionnels",1624,6565,23,"0,014162562"
+277,GHT DE LA NIEVRE,C06,"Chir. Digestive majeure : oesophage, 
+estomac, grêle, côlon, rectum",107,1651,19,"0,177570093"
+278,GHT DE LA NIEVRE,X19,"Fièvre, Infection, Septicémie, VIH",253,1996,13 à 33,5%-13%
+279,GHT DE LA NIEVRE,X24,"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux",802,2681,0 à 60 ,0%-7%
+280,GHT DE LA NIEVRE,X22,Douleur et soins palliatifs ,316,4475,0 à 40,0%-13%
+281,GHT DE LA NIEVRE,X13,Appareil génital masculin ,128,869,0 à 30 ,0%-23%
+282,GHT DE LA NIEVRE,X04,"Commotions cérébrales, Traumatismes crâniens",239,731,0 à 30 ,0%-13%
+283,GHT DE LA NIEVRE,X09,"ORL, Stomato",494,1404,0 à 30 ,0%-6%
+284,GHT DE LA NIEVRE,C20,Chirurgie de l'appareil génital masculin ,51,170,0 à 20 ,"0,392156863"
+285,GHT DE LA NIEVRE,X10 ,Ophtalmologie ,69,273,0 à 20 ,"0,289855072"
+286,GHT DE LA NIEVRE,C17,Chirurgie gynécologique ,234,302,0 à 20 ,"0,085470085"
+287,GHT DE LA NIEVRE,K09,"ORL Stomato avec Acte classant non opératoire 
+et endoscopies",229,19,0 à 20 ,"0,087336245"
+288,GHT DE LA NIEVRE,K12,"Explorations nocturnes, séjours de moins de 2 jours",221,220,0 à 20 ,"0,090497738"
+289,GHT DE LA NIEVRE,C15,"Chirurgie ORL, Stomato",247,349,0 à 20 ,"0,08097166"
+290,GHT DE LA NIEVRE,O03,IVG,242,7,0 à 20 ,"0,082644628"
+291,GHT DE LA NIEVRE,C25,Chirurgie inter-spécialités,289,1096,0 à 20 ,"0,069204152"
+292,GHT DE LA NIEVRE,C23,"Parages de plaies, Greffes de peau, des Tissus S/C",416,70,0 à 20 ,"0,048076923"
+293,GHT DE LA NIEVRE,C16,Chirurgie Ophtalmologique et greffe de cornée,498,50,0 à 20 ,"0,040160643"
+294,GHT DE LA NIEVRE,O04,Obstétrique autre ,467,797,0 à 20 ,"0,042826552"
+295,GHT DE LA NIEVRE,K02,"Endoscopies digestives et biliaires 
+avec ou sans anesthésie",720,14,0 à 20 ,"0,027777778"
+296,GHT DE LA NIEVRE,N03,"Mort-nés, décès et transferts précoces de nouveau-nés",12,4,0 à 10,"0,833333333"
+297,GHT DE LA NIEVRE,X17,Brûlures,14,33,0 à 10,"0,714285714"
+298,GHT DE LA NIEVRE,K15,"Autres séj. sans acte, avec anesthésie, 
+en ambulatoire (Aff. myéloP., peau, sein...)",20,0,0 à 10,"0,5"
+299,GHT DE LA NIEVRE,C22,"Chirurgie de la Thyroide, Parathyroide, 
+du Tractus Thyréoglosse, endocrinologie",21,117,0 à 10,"0,476190476"
+300,GHT DE LA NIEVRE,K04,"Aff. Cardio-vasculaire avec Acte classant non opératoire, ou anesthésie",27,0,0 à 10,"0,37037037"
+301,GHT DE LA NIEVRE,C21,"Chir. pour Aff. des Org. Hématopoiétiques,
+ Lymphomes, Leucémies, Tumeurs SID",27,163,0 à 10,"0,37037037"
+302,GHT DE LA NIEVRE,C10 ,"Arthroscopies, Biopsies ostéo-articulaires",56,70,0 à 10,"0,178571429"
+303,GHT DE LA NIEVRE,K13,Dialyse (hors séance) ,60,1079,0 à 10,"0,166666667"
+304,GHT DE LA NIEVRE,X11,"Gynécologie, Sénologie (hors Obstétrique)",79,494,0 à 10,"0,126582278"
+305,GHT DE LA NIEVRE,C08,Chir. hépato-biliaire et pancréatique,76,248,0 à 10,"0,131578947"
+306,GHT DE LA NIEVRE,C05,"Chir. majeure sur le thorax, l'app. respiratoire,
+interventions sous thoracoscopie",99,1036,0 à 10,"0,101010101"
+307,GHT DE LA NIEVRE,K10,"Aff. génito-urinaires avec Acte classant non opératoire 
+et endoscopies",114,18,0 à 10,"0,087719298"
+308,GHT DE LA NIEVRE,K06,Mise ne place d'accès vasculaire ,108,28,0 à 10,"0,092592593"
+309,GHT DE LA NIEVRE,C19,Chirurgie Urologique ,130,726,0 à 10,"0,076923077"
+310,GHT DE LA NIEVRE,X23,Chimithérapie (hors séances) ,167,663,0 à 10,"0,05988024"
+311,GHT DE LA NIEVRE,C13,"Stimulateurs, Défibrillateurs cardiaques",154,1012,0 à 10,"0,064935065"
+312,GHT DE LA NIEVRE,O02 ,Césarienne ,229,1373,0 à 10,"0,043668122"
+313,GHT DE LA NIEVRE,C07,"Chir. Viscérale autre : rate, grêle, colon,
+ proctologie, hernies",321,1394,0 à 10,"0,031152648"
+314,GHT DE LA NIEVRE,N02,"Aff. médicales des nouveaunés, prématurés et 
+de la période périnatale",1127,5057,0 à 10,"0,008873114"
+315,GHT DE LA NIEVRE,O01,Accouchement par voie basse ,878,3599,0 à 10,"0,011389522"
+316,GHT DE LA NIEVRE,S01,Dialyse ,14766,0,,/
+317,GHT DE LA NIEVRE,S02,Chimiothérapie pour tumeurs,3928,0,,/
+318,GHT DE LA NIEVRE,S03,Chimiothérapie pour aff. Non tumorale,1775,0,,/
+319,GHT DE LA NIEVRE,S05,Transfusions,865,0,,/
+320,GHT DE LA NIEVRE,S06,Aphérèse ,17,0,,/
+321,GHT NORD-YONNE,C09,"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule",451,3851,247,"0,54767184"
+322,GHT NORD-YONNE,X08,Pneumologie ,1927,17306,184,"0,09548521"
+323,GHT NORD-YONNE,X03,Neurologie ,992,8175,124,"0,125"
+324,GHT NORD-YONNE,X07,Affections Cardio-vasculaires ,2029,11519,124,"0,061113849"
+325,GHT NORD-YONNE,X06,Rhumatologie ,514,4627,99,"0,192607004"
+326,GHT NORD-YONNE,X12,Uro-Néphrologie médicale (hors Séances),703,4997,58,"0,082503556"
+327,GHT NORD-YONNE,X05,"
+Traumatologie et ablation de matériel de l'appareil locomoteur",241,1198,57,"0,236514523"
+328,GHT NORD-YONNE,X20,Psychiatrie ,607,2683,51 à 61,8%-10%
+329,GHT NORD-YONNE,X02,Hépato-Gastro-Entérologie ,1768,9800,50 à 60 ,"0,033936652"
+330,GHT NORD-YONNE,C11,"Chirurgies autres de l'appareil locomoteur, 
+amputations",792,1963,47,"0,059343434"
+331,GHT NORD-YONNE,X24,"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux",418,1691,39,"0,093301435"
+332,GHT NORD-YONNE,X15,"Diabète, Maladies métaboliques,
+ Endocrinologie (hors complications)",480,3707,38,"0,079166667"
+333,GHT NORD-YONNE,X16,"Affections et traumatismes de la peau, gelures",367,2430,29 à 39 ,8%-11%
+334,GHT NORD-YONNE,X14,"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID",480,3386,23 à 33,5%-7%
+335,GHT NORD-YONNE,C02,"Chirhurhie de rachis, Neurochirurgie ",22,151,17,"0,772727273"
+336,GHT NORD-YONNE,C06,"Chir. Digestive majeure : oesophage, 
+estomac, grêle, côlon, rectum",90,1175,15,"0,166666667"
+337,GHT NORD-YONNE,X19,"Fièvre, Infection, Septicémie, VIH",200,1411,11 à 21 ,6%-11%
+338,GHT NORD-YONNE,X10 ,Ophtalmologie ,45,299,0 à 20 ,"0,444444444"
+339,GHT NORD-YONNE,X04,"Commotions cérébrales, Traumatismes crâniens",104,714,0 à 20 ,"0,192307692"
+340,GHT NORD-YONNE,X13,Appareil génital masculin ,126,757,0 à 20 ,"0,158730159"
+341,GHT NORD-YONNE,X18,"Suivi thérap. d'affections connues, Allergologie,
+ Rééducation, Convalescence",199,610,0 à 20 ,"0,100502513"
+342,GHT NORD-YONNE,X09,"ORL, Stomato",194,650,0 à 20 ,"0,103092784"
+343,GHT NORD-YONNE,O03,IVG,219,1,0 à 20 ,"0,091324201"
+344,GHT NORD-YONNE,X21,"Effets nocifs, alcool, toxicologie, allergies",607,1626,0 à 20 ,"0,032948929"
+345,GHT NORD-YONNE,X22,Douleur et soins palliatifs ,578,3758,0 à 20 ,"0,034602076"
+346,GHT NORD-YONNE,K13,Dialyse (hors séance) ,11,143,0 à 10,"0,909090909"
+347,GHT NORD-YONNE,K08,"Traumatologie avec acte classant non opératoire 
+ou anesthésie",15,6,0 à 10,"0,666666667"
+348,GHT NORD-YONNE,C18 ,Chirurgie su sein ,24,17,0 à 10,"0,416666667"
+349,GHT NORD-YONNE,N03,"Mort-nés, décès et transferts précoces de nouveau-nés",25,10,0 à 10,"0,4"
+350,GHT NORD-YONNE,K15,"Autres séj. sans acte, avec anesthésie,
+ en ambulatoire (Aff. myéloP., peau, sein...)",29,0,0 à 10,"0,344827586"
+351,GHT NORD-YONNE,C23,"Parages de plaies, Greffes de peau, des Tissus S/C",31,4,0 à 10,"0,322580645"
+352,GHT NORD-YONNE,C22,"Chirurgie de la Thyroide, Parathyroide, 
+du Tractus Thyréoglosse, endocrinologie",32,96,0 à 10,"0,3125"
+353,GHT NORD-YONNE,K09,"ORL Stomato avec Acte classant non opératoire 
+et endoscopies",38,5,0 à 10,"0,263157895"
+354,GHT NORD-YONNE,C14,Chirurgie vasculaire ,62,351,0 à 10,"0,161290323"
+355,GHT NORD-YONNE,X11,"Gynécologie, Sénologie (hors Obstétrique)",77,280,0 à 10,"0,12987013"
+356,GHT NORD-YONNE,C25,Chirurgie inter-spécialités,99,464,0 à 10,"0,101010101"
+357,GHT NORD-YONNE,K10,"Aff. génito-urinaires avec Acte classant non opératoire 
+et endoscopies",110,7,0 à 10,"0,090909091"
+358,GHT NORD-YONNE,K06,Mise ne place d'accès vasculaire ,107,2,0 à 10,"0,093457944"
+359,GHT NORD-YONNE,C08,Chir. hépato-biliaire et pancréatique,176,378,0 à 10,"0,056818182"
+360,GHT NORD-YONNE,K05 ,"Cathétérismes vasculaires diagnostiques
+ et interventionnels",171,249,0 à 10,"0,058479532"
+361,GHT NORD-YONNE,C10 ,"Arthroscopies, Biopsies ostéo-articulaires",166,107,0 à 10,"0,060240964"
+362,GHT NORD-YONNE,X23,Chimithérapie (hors séances) ,195,656,0 à 10,"0,051282051"
+363,GHT NORD-YONNE,C20,Chirurgie de l'appareil génital masculin ,278,642,0 à 10,"0,035971223"
+364,GHT NORD-YONNE,O02 ,Césarienne ,259,1525,0 à 10,"0,038610039"
+365,GHT NORD-YONNE,C17,Chirurgie gynécologique ,333,376,0 à 10,"0,03003003"
+366,GHT NORD-YONNE,K02,"Endoscopies digestives et biliaires 
+avec ou sans anesthésie",309,6,0 à 10,"0,03236246"
+367,GHT NORD-YONNE,C19,Chirurgie Urologique ,488,1706,0 à 10,"0,020491803"
+368,GHT NORD-YONNE,C07,"Chir. Viscérale autre : rate, grêle, colon,
+ proctologie, hernies",468,1632,0 à 10,"0,021367521"
+369,GHT NORD-YONNE,O04,Obstétrique autre ,455,838,0 à 10,"0,021978022"
+370,GHT NORD-YONNE,N02,"Aff. médicales des nouveaunés, prématurés et 
+de la période périnatale",1199,4859,0 à 10,"0,008340284"
+371,GHT NORD-YONNE,O01,Accouchement par voie basse ,924,3574,0 à 10,"0,010822511"
+372,GHT NORD-YONNE,S01,Dialyse ,7278,0,,/
+373,GHT NORD-YONNE,S02,Chimiothérapie pour tumeurs,3537,0,,/
+374,GHT NORD-YONNE,S03,Chimiothérapie pour aff. Non tumorale,658,0,,/
+375,GHT NORD-YONNE,S05,Transfusions,454,0,,/
