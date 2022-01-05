@@ -1,0 +1,554 @@
+Etablissement SSR ;Catégorie ;Code ;Groupe planification ;Provenance ;Effectif 
+CH AUTUN SITE LATOUCHE;CH;X08;Pneumologie ;CH AUTUN SITE PARPAS;30
+CH AUTUN SITE LATOUCHE;CH;X03;Neurologie médicale;CH AUTUN SITE PARPAS;30
+CH AUTUN SITE LATOUCHE;CH;X07;Affections Cardio-vasculaires ;CH AUTUN SITE PARPAS;16
+CH AUTUN SITE LATOUCHE;CH;X06;Rhumatologie ;CH AUTUN SITE PARPAS;12
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH WILLIAM MOREY CHALON SUR SAONE;78
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;X03;Neurologie médicale;CH WILLIAM MOREY CHALON SUR SAONE;32
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;X08;Pneumologie ;CH WILLIAM MOREY CHALON SUR SAONE;22
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;X07;Affections Cardio-vasculaires ;CH WILLIAM MOREY CHALON SUR SAONE;24
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH WILLIAM MOREY CHALON SUR SAONE;20
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;X06;Rhumatologie ;CH WILLIAM MOREY CHALON SUR SAONE;20
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH WILLIAM MOREY CHALON SUR SAONE;33
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;X02;Hépato-Gastro-Entérologie ;CH WILLIAM MOREY CHALON SUR SAONE;22
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;X12;Uro-Néphrologie médicale (hors Séances);CH WILLIAM MOREY CHALON SUR SAONE;11
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CENTRE ORTHOPEDIQUE MEDICO-CHIR;376
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;C10 ;Arthroscopies, Biopsies ostéo-articulaires;CENTRE ORTHOPEDIQUE MEDICO-CHIR;69
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;C11;Chirurgies autres de l'appareil locomoteur, amputations;CENTRE ORTHOPEDIQUE MEDICO-CHIR;33
+CENTRE ORTHOPEDIQUE MEDICO-CHIR;Privé;X06;Rhumatologie;CENTRE ORTHOPEDIQUE MEDICO-CHIR;11
+CH WILLIAM MOREY CHALON SUR SAONE;CH;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH WILLIAM MOREY CHALON SUR SAONE;49
+CH WILLIAM MOREY CHALON SUR SAONE;CH;X03;Neurologie médicale;CH WILLIAM MOREY CHALON SUR SAONE;28
+CH WILLIAM MOREY CHALON SUR SAONE;CH;X08;Pneumologie ;CH WILLIAM MOREY CHALON SUR SAONE;85
+CH WILLIAM MOREY CHALON SUR SAONE;CH;X07;Affections Cardio-vasculaires ;CH WILLIAM MOREY CHALON SUR SAONE;26
+CH WILLIAM MOREY CHALON SUR SAONE;CH;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH WILLIAM MOREY CHALON SUR SAONE;14
+CH WILLIAM MOREY CHALON SUR SAONE;CH;X06;Rhumatologie ;CH WILLIAM MOREY CHALON SUR SAONE;31
+CH WILLIAM MOREY CHALON SUR SAONE;CH;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH WILLIAM MOREY CHALON SUR SAONE;33
+CH WILLIAM MOREY CHALON SUR SAONE;CH;X12;Uro-Néphrologie médicale (hors Séances);CH WILLIAM MOREY CHALON SUR SAONE;15
+CH WILLIAM MOREY CHALON SUR SAONE;CH;X20 ;Psychiatrie ;CH WILLIAM MOREY CHALON SUR SAONE;17
+CH WILLIAM MOREY CHALON SUR SAONE;CH;X19;Fièvre, Infection, Septicémie, VIH;CH WILLIAM MOREY CHALON SUR SAONE;15
+CENTRE SSR DU CHALONNAIS ;Privé ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH WILLIAM MOREY CHALON SUR SAONE;35
+CENTRE SSR DU CHALONNAIS ;Privé ;X08;Pneumologie ;CH WILLIAM MOREY CHALON SUR SAONE;12
+CENTRE SSR DU CHALONNAIS ;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH WILLIAM MOREY CHALON SUR SAONE;15
+CENTRE SSR DU CHALONNAIS ;Privé ;X02;Hépato-Gastro-Entérologie ;CH WILLIAM MOREY CHALON SUR SAONE;11
+CENTRE SSR DU CHALONNAIS ;Privé ;C07;"Chir. Viscérale autre : rate, grêle, colon,
+ proctologie, hernies";CH WILLIAM MOREY CHALON SUR SAONE;25
+CENTRE SSR DU CHALONNAIS ;Privé ;C06;"Chir. Digestive majeure : oesophage, 
+estomac, grêle, côlon, rectum";CH WILLIAM MOREY CHALON SUR SAONE;12
+CENTRE SSR DU CHALONNAIS ;Privé ;C07;Chir. Viscérale;CH DU PAYS CHAROLAIS BRIONNAIS ;24
+CENTRE SSR DU CHALONNAIS ;Privé ;C07;Chir. Viscérale autre : rate, grêle, colon, proctologie, hernies;HOPITAL PRIVE DIJON BOURGOGNE;25
+KORIAN LA BRESSANE ;Privé ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH WILLIAM MOREY CHALON SUR SAONE;25
+KORIAN LA BRESSANE ;Privé ;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH WILLIAM MOREY CHALON SUR SAONE;12
+CH JEAN BOUVERI ;CH;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH WILLIAM MOREY CHALON SUR SAONE;18
+CH JEAN BOUVERI ;CH;X08;Pneumologie ;CH JEAN BOUVERI ;44
+CH JEAN BOUVERI ;CH;X03;Neurologie médicale;CH JEAN BOUVERI ;46
+CH JEAN BOUVERI ;CH;X07;Affections Cardio-vasculaires ;CH JEAN BOUVERI ;42
+CH JEAN BOUVERI ;CH;X06;Rhumatologie ;CH JEAN BOUVERI ;31
+CH JEAN BOUVERI ;CH;X20 ;Psychiatrie ;CH JEAN BOUVERI ;25
+CH JEAN BOUVERI ;CH;X21;Effets nocifs, alcool, toxicologie, allergies;CH JEAN BOUVERI ;31
+CH JEAN BOUVERI ;CH;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH JEAN BOUVERI ;24
+CH JEAN BOUVERI ;CH;X16;Affections et traumatismes de la peau, gelures;CH JEAN BOUVERI ;24
+CH JEAN BOUVERI ;CH;X02;Hépato-Gastro-Entérologie ;CH JEAN BOUVERI ;22
+CH JEAN BOUVERI ;CH;X12;Uro-Néphrologie médicale (hors Séances);CH JEAN BOUVERI ;15
+CH JEAN BOUVERI ;CH;X18;"Suivi thérap. d'affections connues, Allergologie,
+ Rééducation, Convalescence";CH JEAN BOUVERI ;16
+CH JEAN BOUVERI;CH;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOTEL-DIEU DU CREUSOT;21
+CH BELNAY;CH;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH WILLIAM MOREY CHALON SUR SAONE;13
+CH BELNAY;CH;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH LES CHAUNAUX MACON;20
+CH BELNAY;CH;X07;Affections Cardio-vasculaires;CH LES CHAUNAUX MACON;11
+CH BELNAY;CH;X20 ;Psychiatrie ;CH BELNAY ;25
+CH BELNAY;CH;X08;Pneumologie ;CH BELNAY ;22
+CH BELNAY;CH;X24;"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux";CH BELNAY ;19
+SSR MARGUERITE BOUCICAUT;Privé ;X03;Neurologie médicale;CH WILLIAM MOREY CHALON SUR SAONE;133
+SSR MARGUERITE BOUCICAUT;Privé ;X07;Affections Cardio-vasculaires ;CH WILLIAM MOREY CHALON SUR SAONE;26
+SSR MARGUERITE BOUCICAUT;Privé ;X08;Pneumologie ;CH WILLIAM MOREY CHALON SUR SAONE;63
+SSR MARGUERITE BOUCICAUT;Privé ;;;CH JEAN BOUVERI ;11
+SSR MARGUERITE BOUCICAUT;Privé ;C04 ;"Chir. cardio-thoracique (hors transplant. d'organe), 
+Pontages aorto-coronariens";HÔPITAL LE BOCAGE CHRU DIJON;39
+CRF LE  BOURBONNAIS;PSPH/EBNL;X03;Neurologie médicale ;CH WILLIAM MOREY CHALON SUR SAONE;14
+CRF LE BOURBONNAIS;PSPH/EBNL;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH DU PAYS CHAROLAIS BRIONNAIS ;31
+CRF LE  BOURBONNAIS;PSPH/EBNL;X03;Neurologie médicale ;CH DU PAYS CHAROLAIS BRIONNAIS ;11
+CRF LE BOURBONNAIS;PSPH/EBNL;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CLINIQUE DU PARC ;12
+CRF LE BOURBONNAIS;PSPH/EBNL;C02;Chirurgie du rachis, Neuro-chirurgie;HOPITAL PRIVE DIJON BOURGOGNE;11
+CH BRESSE LOUHANNAISE;CH;X03;Neurologie médicale ;CH BRESSE LOUHANNAISE;17
+CH BRESSE LOUHANNAISE;CH;X08;Pneumologie ;CH BRESSE LOUHANNAISE;12
+CH BRESSE LOUHANNAISE;CH;X07;Affections Cardio-vasculaires ;CH BRESSE LOUHANNAISE;11
+CH DE LA GUICHE ;CH ;X08;Pneumologie ;CH JEAN BOUVERI ;43
+CH DE LA GUICHE;CH;X08;Pneumologie ;HOTEL-DIEU DU CREUSOT;20
+AIHP CENTRE ARMANCON;PSPH/EBNL;X21;Effets nocifs, alcool, toxicologie, allergies;CHS AUXERRE;30
+CSSR LE RENOUVEAU;Privé;X21;Effets nocifs, alcool, toxicologie, allergies;CHS AUXERRE;13
+CSSR LE RENOUVEAU;Privé;X21;Effets nocifs, alcool, toxicologie, allergies;CH LA CHARTREUSE ;12
+LE RECONFORT;Privé ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH AUXERRE ;39
+LE RECONFORT;Privé ;X07;Affections Cardio-vasculaires ;CH CLAMECY;25
+LE RECONFORT;Privé ;X08;Pneumologie ;CH CLAMECY;21
+LE RECONFORT;Privé ;X03;Neurologie médicale;CH CLAMECY;20
+LE RECONFORT;Privé ;X06;Rhumatologie ;CH CLAMECY;18
+LE RECONFORT;Privé ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL PIERRE BEREGOVOY;14
+CH AUXERRE;CH;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH AUXERRE;62
+CH AUXERRE;CH;X08;Pneumologie ;CH AUXERRE;36
+CH AUXERRE;CH;X03;Neurologie médicale;CH AUXERRE;80
+CH AUXERRE;CH;X07;Affections Cardio-vasculaires ;CH AUXERRE;70
+CH AUXERRE;CH;X02;Hépato-Gastro-Entérologie ;CH AUXERRE;31
+CH AUXERRE;CH;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH AUXERRE;17
+CH AUXERRE;CH;X06;Rhumatologie ;CH AUXERRE;42
+CH AUXERRE;CH;X24;"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux";CH AUXERRE;34
+CH AUXERRE;CH;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH AUXERRE;37
+CH AUXERRE;CH;X16;Affections et traumatismes de la peau, gelures;CH AUXERRE;26
+CH AUXERRE;CH;X12;Uro-Néphrologie médicale (hors Séances);CH AUXERRE;17
+CH AUXERRE;CH;X20;Psychiatrie ;CH AUXERRE;22
+CH AUXERRE;CH;X15;"Diabète, Maladies métaboliques,
+ Endocrinologie (hors complications)";CH AUXERRE;18
+CH AUXERRE;CH;X04;Commotions cérébrales, Traumatismes crâniens;CH AUXERRE;12
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH AUXERRE;53
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X08;Pneumologie ;CH AUXERRE;79
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X03;Neurologie médicale;CH AUXERRE;32
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X07;Affections Cardio-vasculaires ;CH AUXERRE;27
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X02;Hépato-Gastro-Entérologie ;CH AUXERRE;34
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH AUXERRE;17
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X06;Rhumatologie ;CH AUXERRE;17
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X24;"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux";CH AUXERRE;22
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X23;Chimithérapie (hors séances) ;CH AUXERRE;28
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X16;Affections et traumatismes de la peau, gelures;CH AUXERRE;11
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X12;Uro-Néphrologie médicale (hors Séances);CH AUXERRE;13
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X20;Psychiatrie ;CH AUXERRE;11
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X03;Neurologie médicale;CH SENS ;11
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X08 ;Pneumologie ;CH JOIGNY ;27
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;X06;Rhumatologie ;CH JOIGNY ;11
+ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";POLYCLINIQUE STE MARGUERITE;12
+CH AVALLON ;CH ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH AUXERRE;25
+CH AVALLON ;CH ;X06;Rhumatologie ;CH AVALLON ;26
+CH AVALLON ;CH ;X07;Affections Cardio-vasculaires ;CH AVALLON ;21
+CH AVALLON ;CH ;X08;Pneumologie ;CH AVALLON ;21
+CH AVALLON ;CH ;X03;Neurologie médicale;CH AVALLON ;12
+CH AVALLON ;CH ;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH AVALLON ;14
+CH AVALLON ;CH ;X20;Psychiatrie ;CH AVALLON ;14
+CH AVALLON ;CH ;X24;"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux";CH AVALLON ;12
+CH DU TONNERROIS;CH;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH AUXERRE;24
+CH DU TONNERROIS;CH;X03;Neurologie médicale;CH DU TONNERROIS;22
+CH DU TONNERROIS;CH;X06;Rhumatologie ;CH DU TONNERROIS;23
+CH DU TONNERROIS;CH;X08;Pneumologie ;CH DU TONNERROIS;18
+CH DU TONNERROIS;CH;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH DU TONNERROIS;16
+CH DU TONNERROIS;CH;X07;Affections Cardio-vasculaires ;CH DU TONNERROIS;13
+CH DU TONNERROIS;CH;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH SENS ;18
+CH DU TONNERROIS;CH;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";POLYCLINIQUE STE MARGUERITE;14
+CH DU TONNERROIS;CH;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOPITAL PRIVE DIJON BOURGOGNE;23
+CH DU TONNERROIS;CH;C02;Chirurgie du rachis, Neuro-chirurgie;HOPITAL PRIVE DIJON BOURGOGNE;28
+CENTRE MEDICAL DE LA VENERIE ;Privé ;X08;Pneumologie ;CH CLAMECY;11
+CENTRE MEDICAL DE LA VENERIE ;Privé ;X21;Effets nocifs, alcool, toxicologie, allergies;CH DECIZE;17
+CENTRE MEDICAL DE LA VENERIE ;Privé ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL PIERRE BEREGOVOY;56
+CENTRE MEDICAL DE LA VENERIE ;Privé ;X08;Pneumologie ;HÔPITAL PIERRE BEREGOVOY;11
+CENTRE MEDICAL DE LA VENERIE ;Privé ;X07;Affections Cardio-vasculaires ;HÔPITAL PIERRE BEREGOVOY;28
+CENTRE MEDICAL DE LA VENERIE ;Privé ;X02;Hépato-Gastro-Entérologie ;HÔPITAL PIERRE BEREGOVOY;13
+CENTRE MEDICAL DE LA VENERIE ;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";HÔPITAL PIERRE BEREGOVOY;16
+CENTRE MEDICAL DE LA VENERIE ;Privé ;X05 ;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";HÔPITAL PIERRE BEREGOVOY;13
+CENTRE MEDICAL DE LA VENERIE ;Privé ;X21;Effets nocifs, alcool, toxicologie, allergies;HÔPITAL PIERRE BEREGOVOY;13
+CENTRE MEDICAL DE LA VENERIE ;Privé ;K05;"Cathétérismes vasculaires diagnostiques
+ et interventionnels";HÔPITAL PIERRE BEREGOVOY;13
+CH REG UNIVERSITAIRE DIJON ;CHR/U ;X08;Pneumologie ;CH REG UNIVERSITAIRE DIJON ;90
+CH REG UNIVERSITAIRE DIJON ;CHR/U ;X07;Affections Cardio-vasculaires ;CH REG UNIVERSITAIRE DIJON ;68
+CH REG UNIVERSITAIRE DIJON ;CHR/U ;X20 ;Psychiatrie ;CH REG UNIVERSITAIRE DIJON ;59
+CH REG UNIVERSITAIRE DIJON ;CHR/U ;X03 ;Neurologie médicale ;CH REG UNIVERSITAIRE DIJON ;49
+CH REG UNIVERSITAIRE DIJON ;CHR/U ;X06 ;Rhumatologie ;CH REG UNIVERSITAIRE DIJON ;36
+CH REG UNIVERSITAIRE DIJON ;CHR/U ;X02 ;Hépato-Gastro-Entérologie ;CH REG UNIVERSITAIRE DIJON ;34
+CH REG UNIVERSITAIRE DIJON ;CHR/U ;X12 ;Uro-Néphrologie médicale (hors Séances);CH REG UNIVERSITAIRE DIJON ;21
+CH REG UNIVERSITAIRE DIJON ;CHR/U ;X14;"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID";CH REG UNIVERSITAIRE DIJON ;13
+SSR EDITH CAVELL ;Privé ;X07;Affections Cardio-vasculaires ;CH REG UNIVERSITAIRE DIJON ;22
+SSR EDITH CAVELL ;Privé ;X20 ;Psychiatrie ;CH REG UNIVERSITAIRE DIJON ;23
+SSR EDITH CAVELL ;Privé ;X03 ;Neurologie médicale ;CH REG UNIVERSITAIRE DIJON ;14
+SSR EDITH CAVELL ;Privé ;X06 ;Rhumatologie ;CH REG UNIVERSITAIRE DIJON ;12
+SSR EDITH CAVELL ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL LE BOCAGE CHRU DIJON;30
+SSR EDITH CAVELL ;Privé ;X08 ;Pneumologie ;HÔPITAL LE BOCAGE CHRU DIJON;37
+SSR EDITH CAVELL ;Privé ;X03 ;Neurologie médicale ;HÔPITAL LE BOCAGE CHRU DIJON;15
+SSR EDITH CAVELL ;Privé ;X06 ;Rhumatologie ;HÔPITAL LE BOCAGE CHRU DIJON;20
+SSR EDITH CAVELL ;Privé ;X07 ;Affections Cardio-vasculaires ;HÔPITAL LE BOCAGE CHRU DIJON;26
+SSR EDITH CAVELL ;Privé ;X02 ;Hépato-Gastro-Entérologie ;HÔPITAL LE BOCAGE CHRU DIJON;23
+SSR EDITH CAVELL ;Privé ;X12 ;Uro-Néphrologie médicale (hors Séances);HÔPITAL LE BOCAGE CHRU DIJON;13
+SSR EDITH CAVELL ;Privé ;C06;Chir. Digestive majeure : oesophage, estomac, grêle, côlon, rectum;HÔPITAL LE BOCAGE CHRU DIJON;23
+SSR EDITH CAVELL ;Privé ;X14;"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID";HÔPITAL LE BOCAGE CHRU DIJON;12
+SSR EDITH CAVELL;Privé;X08;Pneumologie ;CLINIQUE MEDICO-CHIRURGICALE;20
+SSR EDITH CAVELL;Privé;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CLINIQUE MEDICO-CHIRURGICALE;13
+SSR EDITH CAVELL;Privé;C07;Chir. Viscérale autre : rate, grêle, colon, proctologie, hernies;CLINIQUE MEDICO-CHIRURGICALE;16
+SSR EDITH CAVELL;Privé;X02;Hépato-Gastro-Entérologie;CLINIQUE MEDICO-CHIRURGICALE;13
+SSR EDITH CAVELL;Privé;C19;Chirurgie Urologique;CLINIQUE MEDICO-CHIRURGICALE;11
+SSR EDITH CAVELL;Privé;X03;Neurologie médicale;CLINIQUE MEDICO-CHIRURGICALE;11
+SSR EDITH CAVELL;Privé;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOPITAL PRIVE DIJON BOURGOGNE;44
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL LE BOCAGE CHRU DIJON;86
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;X08 ;Pneumologie ;HÔPITAL LE BOCAGE CHRU DIJON;67
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;X03 ;Neurologie médicale ;HÔPITAL LE BOCAGE CHRU DIJON;85
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";HÔPITAL LE BOCAGE CHRU DIJON;43
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;C02 ;Chirugie du rachis, Neuro-chirurgie ;HÔPITAL LE BOCAGE CHRU DIJON;33
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;C04 ;"Chir. cardio-thoracique (hors transplant. d'organe), 
+Pontages aorto-coronariens";HÔPITAL LE BOCAGE CHRU DIJON;37
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;X06 ;Rhumatologie ;HÔPITAL LE BOCAGE CHRU DIJON;15
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;X07 ;Affections Cardio-vasculaires ;HÔPITAL LE BOCAGE CHRU DIJON;18
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;K05;"Cathétérismes vasculaires diagnostiques
+ et interventionnels";HÔPITAL LE BOCAGE CHRU DIJON;25
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;X12 ;Uro-Néphrologie médicale (hors Séances);HÔPITAL LE BOCAGE CHRU DIJON;12
+HÔPITAL LE BOCAGE CHRU DIJON;CHR/U ;C14;Chirurgie vasculaire ;HÔPITAL LE BOCAGE CHRU DIJON;12
+C.R.B LES ROSIERS ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL LE BOCAGE CHRU DIJON;74
+C.R.B LES ROSIERS ;Privé ;X08 ;Pneumologie ;HÔPITAL LE BOCAGE CHRU DIJON;22
+C.R.B LES ROSIERS ;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";HÔPITAL LE BOCAGE CHRU DIJON;26
+C.R.B LES ROSIERS ;Privé ;X06 ;Rhumatologie ;HÔPITAL LE BOCAGE CHRU DIJON;13
+C.R.B LES ROSIERS ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";POLYCLINIQUE DU PARC DREVON;11
+C.R.B LES ROSIERS ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOPITAL PRIVE DIJON BOURGOGNE;269
+C.R.B LES ROSIERS ;Privé ;C02;Chirurgie du rachis, Neuro-chirurgie;HOPITAL PRIVE DIJON BOURGOGNE;17
+C.R.B LES ROSIERS ;Privé ;C11;Chirurgies autres de l'appareil locomoteur, amputations;HOPITAL PRIVE DIJON BOURGOGNE;26
+C.R.B LES ROSIERS ;Privé ;C10 ;Arthroscopies, Biopsies ostéo-articulaires;HOPITAL PRIVE DIJON BOURGOGNE;30
+CENTRE DE CONVALESCENCE ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL LE BOCAGE CHRU DIJON;55
+CENTRE DE CONVALESCENCE ;Privé ;X08 ;Pneumologie ;HÔPITAL LE BOCAGE CHRU DIJON;46
+CENTRE DE CONVALESCENCE ;Privé ;X03 ;Neurologie médicale ;HÔPITAL LE BOCAGE CHRU DIJON;13
+CENTRE DE CONVALESCENCE ;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";HÔPITAL LE BOCAGE CHRU DIJON;13
+CENTRE DE CONVALESCENCE ;Privé ;X06 ;Rhumatologie ;HÔPITAL LE BOCAGE CHRU DIJON;22
+CENTRE DE CONVALESCENCE ;Privé ;X07 ;Affections Cardio-vasculaires ;HÔPITAL LE BOCAGE CHRU DIJON;28
+CENTRE DE CONVALESCENCE ;Privé ;X02 ;Hépato-Gastro-Entérologie ;HÔPITAL LE BOCAGE CHRU DIJON;17
+CENTRE DE CONVALESCENCE ;Privé ;X12 ;Uro-Néphrologie médicale (hors Séances);HÔPITAL LE BOCAGE CHRU DIJON;12
+CENTRE DE CONVALESCENCE ;Privé ;X05 ;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";HÔPITAL LE BOCAGE CHRU DIJON;17
+CENTRE DE CONVALESCENCE ;Privé ;X14;"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID";HÔPITAL LE BOCAGE CHRU DIJON;13
+CENTRE DE CONVALESCENCE ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOPITAL PRIVE DIJON BOURGOGNE;33
+CENTRE DE CONVALESCENCE ;Privé ;C02;Chirurgie du rachis, Neuro-chirurgie;HOPITAL PRIVE DIJON BOURGOGNE;16
+CRF DIVIO ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL LE BOCAGE CHRU DIJON;46
+CRF DIVIO ;Privé ;X08 ;Pneumologie ;HÔPITAL LE BOCAGE CHRU DIJON;12
+CRF DIVIO ;Privé ;X03 ;Neurologie médicale ;HÔPITAL LE BOCAGE CHRU DIJON;43
+CRF DIVIO ;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";HÔPITAL LE BOCAGE CHRU DIJON;23
+CRF DIVIO ;Privé ;C02 ;Chirugie du rachis, Neuro-chirurgie ;HÔPITAL LE BOCAGE CHRU DIJON;24
+CRF DIVIO ;Privé ;C12;Traumatismes multiples graves;HÔPITAL LE BOCAGE CHRU DIJON;14
+CRF DIVIO;Privé;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";POLYCLINIQUE DU PARC DREVON;12
+CRF DIVIO;Privé;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOPITAL PRIVE DIJON BOURGOGNE;141
+SA MAISON JOUVENCE;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL LE BOCAGE CHRU DIJON;16
+SA MAISON JOUVENCE;Privé ;X08 ;Pneumologie ;HÔPITAL LE BOCAGE CHRU DIJON;34
+SA MAISON JOUVENCE;Privé ;X03 ;Neurologie médicale ;HÔPITAL LE BOCAGE CHRU DIJON;15
+SA MAISON JOUVENCE;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";HÔPITAL LE BOCAGE CHRU DIJON;16
+SA MAISON JOUVENCE;Privé ;C02 ;Chirugie du rachis, Neuro-chirurgie ;HÔPITAL LE BOCAGE CHRU DIJON;17
+SA MAISON JOUVENCE;Privé ;X07 ;Affections Cardio-vasculaires ;HÔPITAL LE BOCAGE CHRU DIJON;22
+SA MAISON JOUVENCE;Privé ;X02 ;Hépato-Gastro-Entérologie ;HÔPITAL LE BOCAGE CHRU DIJON;14
+SA MAISON JOUVENCE;Privé ;X12 ;Uro-Néphrologie médicale (hors Séances);HÔPITAL LE BOCAGE CHRU DIJON;13
+SA MAISON JOUVENCE;Privé ;X23;Chimiothérapie (hors séances);CENTRE GEORGE-FRANCOIS LECLERC;21
+CH D'AUXONNE ;CH ;X08 ;Pneumologie ;HÔPITAL LE BOCAGE CHRU DIJON;12
+CH D'IS-SUR-TILLE;CH ;X02 ;Hépato-Gastro-Entérologie ;HÔPITAL LE BOCAGE CHRU DIJON;11
+CENTRE MEDICAL LA GRANGE/MONT;PSPH/EBNL;C05;"Chir. majeure sur le thorax, l'app. respiratoire,
+interventions sous thoracoscopie";HÔPITAL LE BOCAGE CHRU DIJON;14
+CH DE CHAUMONT;CH;X03 ;Neurologie médicale ;CH DE CHAUMONT;45
+CH DE CHAUMONT;CH;X06 ;Rhumatologie ;CH DE CHAUMONT;30
+CH DE CHAUMONT;CH;X08;Pneumologie ;CH DE CHAUMONT;24
+CH DE CHAUMONT;CH;X24;"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux";CH DE CHAUMONT;24
+CH DE CHAUMONT;CH;X05 ;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH DE CHAUMONT;12
+CH DE CHAUMONT;CH;X20 ;Psychiatrie ;CH DE CHAUMONT;11
+CH DE LANGRES;CH ;X03 ;Neurologie médicale ;CH DE LANGRES;43
+CH DE LANGRES;CH ;X08;Pneumologie ;CH DE LANGRES;31
+CH DE LANGRES;CH ;X24;"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux";CH DE LANGRES;25
+CH DE LANGRES;CH ;X07;Affections Cardio-vasculaires ;CH DE LANGRES;18
+CH DE LANGRES;CH ;X20 ;Psychiatrie ;CH DE LANGRES;17
+CH DE LANGRES;CH ;X12 ;Uro-Néphrologie médicale (hors Séances);CH DE LANGRES;14
+CH HCO SITE DE CHATILLON SUR SEINE;CH;X07 ;Affections Cardio-vasculaires ;CH HCO SITE DE CHATILLON SUR SEINE;14
+CH HCO SITE DE CHATILLON SUR SEINE;CH;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH ROBERT MORLEVAT;30
+CH HCO SITE DE MONTBARD ;CH ;C04 ;"Chir. cardio-thoracique (hors transplant. d'organe), 
+Pontages aorto-coronariens";HÔPITAL LE BOCAGE CHRU DIJON;12
+CH HCO SITE DE MONTBARD ;CH ;X07 ;Affections Cardio-vasculaires ;CH HCO SITE DE MONTBARD ;77
+CH HCO SITE DE MONTBARD ;CH ;X08;Pneumologie ;CH HCO SITE DE MONTBARD ;43
+CH HCO SITE DE MONTBARD ;CH ;X03;Neurologie médicale ;CH HCO SITE DE MONTBARD ;21
+CH HCO SITE DE MONTBARD ;CH ;X06 ;Rhumatologie ;CH HCO SITE DE MONTBARD ;22
+CH HCO SITE DE MONTBARD ;CH ;X20 ;Psychiatrie ;CH HCO SITE DE MONTBARD ;11
+CH HCO SITE DE MONTBARD ;CH ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH ROBERT MORLEVAT;57
+CH HCO SITE DE MONTBARD ;CH ;X08 ;Pneumologie ;CH ROBERT MORLEVAT;50
+CH HCO SITE DE MONTBARD ;CH ;X07;Affections Cardio-vasculaires ;CH ROBERT MORLEVAT;23
+CH HCO SITE DE MONTBARD ;CH ;X03;Neurologie médicale ;CH ROBERT MORLEVAT;22
+CH HCO SITE DE MONTBARD ;CH ;X12 ;Uro-Néphrologie médicale (hors Séances);CH ROBERT MORLEVAT;13
+CH HCO SITE DE MONTBARD ;CH ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOPITAL PRIVE DIJON BOURGOGNE;16
+CH HCO SITE DE SAULIEU ;CH ;X06 ;Rhumatologie ;CH HCO SITE DE SAULIEU ;15
+CH HCO SITE DE SAULIEU ;CH ;X05 ;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH HCO SITE DE SAULIEU ;15
+CH HCO SITE DE SAULIEU ;CH ;X08;Pneumologie ;CH HCO SITE DE SAULIEU ;11
+CH HCO SITE DE SAULIEU ;CH ;X24;"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux";CH HCO SITE DE SAULIEU ;13
+CH HCO SITE DE SAULIEU ;CH ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH ROBERT MORLEVAT;26
+CH HCO SITE DE SAULIEU ;CH ;X08 ;Pneumologie ;CH ROBERT MORLEVAT;18
+CH HCO SITE DE SAULIEU ;CH ;X07;Affections Cardio-vasculaires ;CH ROBERT MORLEVAT;16
+HOSPICES CIVILS DE BEAUNE;CH;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOSPICES CIVILS DE BEAUNE;91
+HOSPICES CIVILS DE BEAUNE;CH;X03;Neurologie médicale;HOSPICES CIVILS DE BEAUNE;39
+HOSPICES CIVILS DE BEAUNE;CH;X07 ;Affections Cardio-vasculaires;HOSPICES CIVILS DE BEAUNE;34
+HOSPICES CIVILS DE BEAUNE;CH;X05;Traumatologie et ablation de matériel de l'appareil locomoteur;HOSPICES CIVILS DE BEAUNE;30
+HOSPICES CIVILS DE BEAUNE;CH;X08;Pneumologie ;HOSPICES CIVILS DE BEAUNE;28
+HOSPICES CIVILS DE BEAUNE;CH;X06;Rhumatologie ;HOSPICES CIVILS DE BEAUNE;32
+HOSPICES CIVILS DE BEAUNE;CH;X02;Hépato-Gastro-Entérologie;HOSPICES CIVILS DE BEAUNE;22
+HOSPICES CIVILS DE BEAUNE;CH;X12;Uro-Néphrologie médicale (hors Séances);HOSPICES CIVILS DE BEAUNE;18
+HOSPICES CIVILS DE BEAUNE;CH;X18;"Suivi thérap. d'affections connues, Allergologie,
+ Rééducation, Convalescence";HOSPICES CIVILS DE BEAUNE;13
+HOSPICES CIVILS DE BEAUNE;CH;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";HOSPICES CIVILS DE BEAUNE;11
+CH LES CHAUNAUX MACON;CH ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH LES CHAUNAUX MACON;168
+CH LES CHAUNAUX MACON;CH ;X08;Pneumologie ;CH LES CHAUNAUX MACON;69
+CH LES CHAUNAUX MACON;CH ;X03;Neurologie médicale ;CH LES CHAUNAUX MACON;43
+CH LES CHAUNAUX MACON;CH ;X06;Rhumatologie ;CH LES CHAUNAUX MACON;12
+CH LES CHAUNAUX MACON;CH ;X07;Affections Cardio-vasculaires;CH LES CHAUNAUX MACON;13
+CH LES CHAUNAUX MACON;CH ;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH LES CHAUNAUX MACON;14
+CH LES CHAUNAUX MACON;CH ;X02;Hépato-Gastro-Entérologie ;CH LES CHAUNAUX MACON;12
+CH LES CHAUNAUX MACON;CH ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH LES CHAUNAUX MACON;12
+KORIAN LE TINAILLER ;Privé ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH LES CHAUNAUX MACON;85
+KORIAN LE TINAILLER ;Privé ;X08;Pneumologie ;CH LES CHAUNAUX MACON;31
+KORIAN LE TINAILLER ;Privé ;X03;Neurologie médicale ;CH LES CHAUNAUX MACON;23
+KORIAN LE TINAILLER ;Privé ;X06;Rhumatologie ;CH LES CHAUNAUX MACON;24
+KORIAN LE TINAILLER ;Privé ;X07;Affections Cardio-vasculaires;CH LES CHAUNAUX MACON;20
+KORIAN LE TINAILLER ;Privé ;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH LES CHAUNAUX MACON;21
+KORIAN LE TINAILLER ;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH LES CHAUNAUX MACON;13
+KORIAN LE TINAILLER ;Privé ;X16;Affections et traumatismes de la peau, gelures;CH LES CHAUNAUX MACON;12
+KORIAN LE TINAILLER ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOPITAL PRIVE SAINTE MARIE;44
+KORIAN LE TINAILLER ;Privé ;C10 ;Arthroscopies, Biopsies ostéo-articulaires;HOPITAL PRIVE SAINTE MARIE;28
+KORIAN LE TINAILLER ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";POLYCLINIQUE DU VAL DE SAONE ;15
+CH DU CLUNISOIS;CH ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH LES CHAUNAUX MACON;39
+CH DU CLUNISOIS;CH ;X08;Pneumologie ;CH LES CHAUNAUX MACON;20
+CH DU CLUNISOIS;CH ;X03;Neurologie médicale ;CH LES CHAUNAUX MACON;18
+CH DU CLUNISOIS;CH ;X06;Rhumatologie ;CH LES CHAUNAUX MACON;17
+CH DU CLUNISOIS;CH ;X07;Affections Cardio-vasculaires;CH LES CHAUNAUX MACON;11
+CH DU CLUNISOIS;CH ;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH LES CHAUNAUX MACON;12
+CH DU CLUNISOIS;CH ;X02;Hépato-Gastro-Entérologie ;CH LES CHAUNAUX MACON;11
+CH DU CLUNISOIS;CH ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH LES CHAUNAUX MACON;12
+CHIC AIN VAL DE SAONE - PONT VEYLE;CH ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH LES CHAUNAUX MACON;27
+CHIC AIN VAL DE SAONE - PONT VEYLE;CH ;X08;Pneumologie ;CH LES CHAUNAUX MACON;16
+CHIC AIN VAL DE SAONE - THOISSEY;CH ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH LES CHAUNAUX MACON;26
+CHIC AIN VAL DE SAONE - THOISSEY;CH ;X08;Pneumologie ;CH LES CHAUNAUX MACON;15
+CHIC AIN VAL DE SAONE - THOISSEY;CH ;X06;Rhumatologie ;CH LES CHAUNAUX MACON;13
+CHIC AIN VAL DE SAONE - THOISSEY;CH ;X07;Affections Cardio-vasculaires;CH LES CHAUNAUX MACON;16
+CHIC AIN VAL DE SAONE - THOISSEY;CH ;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH LES CHAUNAUX MACON;11
+CHIC AIN VAL DE SAONE - THOISSEY;CH ;X02;Hépato-Gastro-Entérologie ;CH LES CHAUNAUX MACON;18
+CH DE PONT DE VAUX;CH ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH LES CHAUNAUX MACON;21
+CH ALIGRE BOURBON LANCY;CH ;X06;Rhumatologie ;CH ALIGRE BOURBON LANCY;17
+CH ALIGRE BOURBON LANCY;CH ;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH ALIGRE BOURBON LANCY;17
+CH ALIGRE BOURBON LANCY;CH ;X03;Neurologie médicale ;CH ALIGRE BOURBON LANCY;11
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH DU PAYS CHAROLAIS BRIONNAIS ;70
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X08;Pneumologie ;CH DU PAYS CHAROLAIS BRIONNAIS ;72
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X07;Affections Cardio-vasculaires;CH DU PAYS CHAROLAIS BRIONNAIS ;66
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X03;Neurologie médicale ;CH DU PAYS CHAROLAIS BRIONNAIS ;49
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X06;Rhumatologie ;CH DU PAYS CHAROLAIS BRIONNAIS ;61
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH DU PAYS CHAROLAIS BRIONNAIS ;43
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X02;Hépato-Gastro-Entérologie ;CH DU PAYS CHAROLAIS BRIONNAIS ;48
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X20 ;Psychiatrie ;CH DU PAYS CHAROLAIS BRIONNAIS ;38
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X24;"Médecine inter spécialités, 
+Autres symptômes ou motifs médicaux";CH DU PAYS CHAROLAIS BRIONNAIS ;30
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH DU PAYS CHAROLAIS BRIONNAIS ;16
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X12;Uro-Néphrologie médicale (hors Séances);CH DU PAYS CHAROLAIS BRIONNAIS ;28
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X18;Affections et traumatismes de la peau, gelures;CH DU PAYS CHAROLAIS BRIONNAIS ;27
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;C06;"Chir. Digestive majeure : oesophage, 
+estomac, grêle, côlon, rectum";CH DU PAYS CHAROLAIS BRIONNAIS ;18
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X14;"Maladies immunitaires, du Sang, des Organes 
+hématopoïétiques, Tumeurs SID";CH DU PAYS CHAROLAIS BRIONNAIS ;16
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X04;Commotions cérébrales, Traumatismes crâniens;CH DU PAYS CHAROLAIS BRIONNAIS ;14
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X22;Douleur et soins palliatifs;CH DU PAYS CHAROLAIS BRIONNAIS ;16
+CH DU PAYS CHAROLAIS BRIONNAIS ;CH ;X09 ;ORL, Stomato ;CH DU PAYS CHAROLAIS BRIONNAIS ;11
+CH PAYS CHAROLAIS BRIONNAIS CHAROLLES ;CH ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH DU PAYS CHAROLAIS BRIONNAIS ;49
+CH PAYS CHAROLAIS BRIONNAIS CHAROLLES ;CH ;X08;Pneumologie ;CH DU PAYS CHAROLAIS BRIONNAIS ;43
+CH PAYS CHAROLAIS BRIONNAIS CHAROLLES ;CH ;X07;Affections Cardio-vasculaires;CH DU PAYS CHAROLAIS BRIONNAIS ;18
+CH PAYS CHAROLAIS BRIONNAIS CHAROLLES ;CH ;X03;Neurologie médicale ;CH DU PAYS CHAROLAIS BRIONNAIS ;24
+CH PAYS CHAROLAIS BRIONNAIS CHAROLLES ;CH ;X06;Rhumatologie ;CH DU PAYS CHAROLAIS BRIONNAIS ;14
+CH PAYS CHAROLAIS BRIONNAIS CHAROLLES ;CH ;X05;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH DU PAYS CHAROLAIS BRIONNAIS ;18
+CH PAYS CHAROLAIS BRIONNAIS CHAROLLES ;CH ;X02;Hépato-Gastro-Entérologie ;CH DU PAYS CHAROLAIS BRIONNAIS ;15
+CH COSNE COURS SUR LOIRE;CH;X08;Pneumologie ;CH COSNE COURS SUR LOIRE;21
+CH COSNE COURS SUR LOIRE;CH;X03;Neurologie médicale;CH COSNE COURS SUR LOIRE;14
+CH COSNE COURS SUR LOIRE;CH;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL PIERRE BEREGOVOY;12
+CH DECIZE;CH;X20 ;Psychiatrie ;CH DECIZE;36
+CH DECIZE;CH;X07;Affections Cardio-vasculaires ;CH DECIZE;24
+CH DECIZE;CH;X06;Rhumatologie ;CH DECIZE;28
+CH DECIZE;CH;X03;Neurologie médicale ;CH DECIZE;13
+CH DECIZE;CH;X08;Pneumologie ;CH DECIZE;19
+CH DECIZE;CH;X15;"Diabète, Maladies métaboliques,
+ Endocrinologie (hors complications)";CH DECIZE;18
+CH DECIZE;CH;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL PIERRE BEREGOVOY;19
+CLINEA;Privé;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL PIERRE BEREGOVOY;92
+CLINEA;Privé;X03;Neurologie médicale ;HÔPITAL PIERRE BEREGOVOY;14
+CLINEA;Privé;X08;Pneumologie ;HÔPITAL PIERRE BEREGOVOY;41
+CLINEA;Privé;X07;Affections Cardio-vasculaires ;HÔPITAL PIERRE BEREGOVOY;25
+CLINEA;Privé;X02;Hépato-Gastro-Entérologie ;HÔPITAL PIERRE BEREGOVOY;16
+CLINEA;Privé;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";HÔPITAL PIERRE BEREGOVOY;14
+CLINEA;Privé;X06;Rhumatologie ;HÔPITAL PIERRE BEREGOVOY;21
+CLINEA;Privé;X05 ;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";HÔPITAL PIERRE BEREGOVOY;16
+CLINEA;Privé;X16;Affections et traumatismes de la peau, gelures;HÔPITAL PIERRE BEREGOVOY;11
+CLINEA;Privé;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";POLYCLINIQUE DU VAL DE LOIRE;63
+CLINEA;Privé;X22;Douleur et soins palliatifs ;POLYCLINIQUE DU VAL DE LOIRE;28
+CRF PASORI ;Privé ;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL PIERRE BEREGOVOY;33
+CRF PASORI ;Privé ;X03;Neurologie médicale ;HÔPITAL PIERRE BEREGOVOY;32
+CRF PASORI ;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";HÔPITAL PIERRE BEREGOVOY;19
+CRF PASORI ;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";POLYCLINIQUE DU VAL DE LOIRE;68
+CENTRE COLBERT MEDECINE ET SSR;CH;C09;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HÔPITAL PIERRE BEREGOVOY;23
+CENTRE COLBERT MEDECINE ET SSR;CH;X03;Neurologie médicale ;HÔPITAL PIERRE BEREGOVOY;14
+CENTRE COLBERT MEDECINE ET SSR;CH;X08;Pneumologie ;HÔPITAL PIERRE BEREGOVOY;27
+CENTRE COLBERT MEDECINE ET SSR;CH;X07;Affections Cardio-vasculaires ;HÔPITAL PIERRE BEREGOVOY;18
+CENTRE COLBERT MEDECINE ET SSR;CH;X02;Hépato-Gastro-Entérologie ;HÔPITAL PIERRE BEREGOVOY;20
+CENTRE COLBERT MEDECINE ET SSR;CH;X20 ;Psychiatrie ;CENTRE COLBERT MEDECINE ET SSR;19
+CENTRE COLBERT MEDECINE ET SSR;CH;X06;Rhumatologie ;CENTRE COLBERT MEDECINE ET SSR;16
+HÔPITAL PIERRE BEREGOVOY;CH ;X03;Neurologie médicale ;HÔPITAL PIERRE BEREGOVOY;54
+INSTITUT MEDICAL DE SOLOGNE ;Privé ;X18;"Suivi thérap. d'affections connues, Allergologie,
+ Rééducation, Convalescence";HÔPITAL PIERRE BEREGOVOY;19
+CH CHATEAU-CHINON;CH;X05 ;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH CHATEAU-CHINON;11
+CROIX ROUGE FRANCAISE MIGENNES;PSPH/EBNL;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH SENS ;60
+CROIX ROUGE FRANCAISE MIGENNES;PSPH/EBNL;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH SENS ;11
+CROIX ROUGE FRANCAISE MIGENNES;PSPH/EBNL;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CLINIQUE PAUL PIQUET ;23
+HL R BONNION VILLENEUVE-SUR-YONNE;CH ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH SENS ;42
+HL R BONNION VILLENEUVE-SUR-YONNE;CH ;X08 ;Pneumologie ;CH SENS ;22
+HL R BONNION VILLENEUVE-SUR-YONNE;CH ;X07 ;Affections Cardio-vasculaires ;CH SENS ;16
+HL R BONNION VILLENEUVE-SUR-YONNE;CH ;X06;Rhumatologie ;CH SENS ;13
+HL R BONNION VILLENEUVE-SUR-YONNE;CH ;X02 ;Hépato-Gastro-Entérologie ;CH SENS ;11
+MOYEN SEJOUR CH SENS ;CH ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH SENS ;25
+MOYEN SEJOUR CH SENS ;CH ;X08 ;Pneumologie ;CH SENS ;66
+MOYEN SEJOUR CH SENS ;CH ;X03;Neurologie médicale;CH SENS ;24
+MOYEN SEJOUR CH SENS ;CH ;X07 ;Affections Cardio-vasculaires ;CH SENS ;19
+MOYEN SEJOUR CH SENS ;CH ;X06;Rhumatologie ;CH SENS ;21
+MOYEN SEJOUR CH SENS ;CH ;X20 ;Psychiatrie ;CH SENS ;35
+MOYEN SEJOUR CH SENS ;CH ;X02 ;Hépato-Gastro-Entérologie ;CH SENS ;12
+MOYEN SEJOUR CH SENS ;CH ;X05 ;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH SENS ;13
+MOYEN SEJOUR CH SENS ;CH ;X12;Uro-Néphrologie médicale (hors Séances);CH SENS ;18
+MOYEN SEJOUR CH SENS ;CH ;X16;Affections et traumatismes de la peau, gelures;CH SENS ;14
+CRF INSTITUT ASCLEPIADE;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH SENS ;22
+CRF INSTITUT ASCLEPIADE;Privé ;X03;Neurologie médicale;CH SENS ;12
+CRF INSTITUT ASCLEPIADE;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CLINIQUE PAUL PIQUET ;12
+MAISON DE REPOS STE COLOMBE;Privé ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH SENS ;20
+MAISON DE REPOS STE COLOMBE;Privé ;X08 ;Pneumologie ;CH SENS ;23
+MAISON DE REPOS STE COLOMBE;Privé ;X03;Neurologie médicale;CH SENS ;19
+MAISON DE REPOS STE COLOMBE;Privé ;X07 ;Affections Cardio-vasculaires ;CH SENS ;25
+MAISON DE REPOS STE COLOMBE;Privé ;X06;Rhumatologie ;CH SENS ;22
+MAISON DE REPOS STE COLOMBE;Privé ;X20 ;Psychiatrie ;CH SENS ;11
+MAISON DE REPOS STE COLOMBE;Privé ;X02 ;Hépato-Gastro-Entérologie ;CH SENS ;19
+MAISON DE REPOS STE COLOMBE;Privé ;C11;"Chirurgies autres de l'appareil locomoteur, 
+amputations";CH SENS ;12
+MAISON DE REPOS STE COLOMBE;Privé ;X05 ;"
+Traumatologie et ablation de matériel de l'appareil locomoteur";CH SENS ;16
+MAISON DE REPOS STE COLOMBE;Privé ;X12;Uro-Néphrologie médicale (hors Séances);CH SENS ;15
+CH JOIGNY ;CH ;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CH SENS ;21
+CH JOIGNY ;CH ;X08 ;Pneumologie ;CH JOIGNY ;19
+CH JOIGNY ;CH ;X07 ;Affections Cardio-vasculaires ;CH JOIGNY ;31
+CH JOIGNY ;CH ;X06;Rhumatologie ;CH JOIGNY ;21
+CH JOIGNY ;CH ;X03;Neurologie médicale;CH JOIGNY ;16
+POLYCLINIQUE STE MARGUERITE;Privé;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";POLYCLINIQUE STE MARGUERITE;106
+POLYCLINIQUE STE MARGUERITE;Privé;C11;Chirurgies autres de l'appareil locomoteur, amputations;POLYCLINIQUE STE MARGUERITE;19
+HÔPITAL PRIVÉ SAINTE MARIE;Privé;X22;Douleur et soins palliatifs ;HOPITAL PRIVE SAINTE MARIE;21
+HÔPITAL PRIVÉ SAINTE MARIE;Privé;X08;Pneumologie ;HOPITAL PRIVE SAINTE MARIE;13
+HÔPITAL PRIVÉ SAINTE MARIE;Privé;X24;Médecine inter spécialités, Autres symptômes ou motifs médicaux;HOPITAL PRIVE SAINTE MARIE;14
+HÔPITAL PRIVÉ SAINTE MARIE;Privé;X07 ;Affections Cardio-vasculaires ;HOPITAL PRIVE SAINTE MARIE;12
+POLYCLINIQUE DU VAL DE SAONE;Privé;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";POLYCLINIQUE DU VAL DE SAONE ;94
+POLYCLINIQUE DU VAL DE SAONE;Privé;C02;Chirurgie du rachis, Neuro-chirurgie;POLYCLINIQUE DU VAL DE SAONE ;32
+POLYCLINIQUE DU VAL DE SAONE;Privé;C06;Chir. Digestive majeure : oesophage, estomac, grêle, côlon, rectum;POLYCLINIQUE DU VAL DE SAONE ;15
+POLYCLINIQUE DU VAL DE SAONE;Privé;C07;Chir. Viscérale autre : rate, grêle, colon, proctologie, hernies;POLYCLINIQUE DU VAL DE SAONE ;14
+CLINIQUE DU MORVAN SA;Privé;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CLINIQUE DU PARC ;55
+CH LES MARRONNIERS;CH;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CLINIQUE DU PARC ;32
+CMPR L'A.D.A.P.T. LOIRET;PSPH/EBNL;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";CLINIQUE PAUL PIQUET ;36
+HOTEL-DIEU DU CREUSOT;PSPH/EBNL;C09 ;"Chir. majeure de l'app. Locomoteur:
+ hanche, fémur, genou, épaule";HOTEL-DIEU DU CREUSOT;24
+HOTEL-DIEU DU CREUSOT;PSPH/EBNL;X08;Pneumologie ;HOTEL-DIEU DU CREUSOT;22
+HOTEL-DIEU DU CREUSOT;PSPH/EBNL;X05;Traumatologie et ablation de matériel de l'appareil locomoteur;HOTEL-DIEU DU CREUSOT;19
+HOTEL-DIEU DU CREUSOT;PSPH/EBNL;X06;Rhumatologie ;HOTEL-DIEU DU CREUSOT;19
+HOTEL-DIEU DU CREUSOT;PSPH/EBNL;X07 ;Affections Cardio-vasculaires;HOTEL-DIEU DU CREUSOT;19
+HOTEL-DIEU DU CREUSOT;PSPH/EBNL;X03;Neurologie médicale;HOTEL-DIEU DU CREUSOT;11
