@@ -7,6 +7,8 @@ The data come from the following website: https://www.scansante.fr/flux-entre-et
 
 The tool is available at the following address:  https://desolate-tundra-15287.herokuapp.com/
  
+(I used the following tutorial to quickly deploy my app using bokeh: https://medium.com/@jodorning/how-to-deploy-a-bokeh-app-on-heroku-486d7db28299)
+
 
 ## Description of the files
 
