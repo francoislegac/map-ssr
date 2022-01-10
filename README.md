@@ -15,29 +15,24 @@ The tool is available at the following address:  https://desolate-tundra-15287.h
 ### Data structure
 
 ```bash
-├───app
-│   │   app.py
-│   │   Procfile
-│   │   requirements.txt
-│   └───data
-│       │   coordght.csv
-│       │   flux.csv
-│       │   
-│       └───departement_files
-│           │   
-│           └───patches departements france
-│                   
-└───data cleaning
-    │   api_key_geocoding.txt
-    │   get_cities_from_coords.py
-    │   
-    ├───data versions after cleaning
-    │           
-    ├───initial documents
-    │       Cartographie SSR 2 23112021.xlsx
-    │       Coordonnées Etablissement SSR.xlsx
-    │       
-    └───jupyter notebooks
+.
+├── Procfile
+├── README.md
+├── app.py
+├── data
+│   ├── data.csv
+│   ├── departement_files
+│   │   └── patches departements france
+│   └── flux.csv
+├── data_cleaning
+│   ├── api_key_geocoding.txt
+│   ├── data versions after cleaning
+│   ├── get_cities_from_coords.py
+│   ├── initial documents
+│   │   ├── Cartographie SSR 2 23112021.xlsx
+│   │   └── Coordonnées Etablissement SSR.xlsx
+│   └── jupyter notebooks
+└── requirements.txt
 ```
 **app**
 
