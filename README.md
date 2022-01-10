@@ -34,16 +34,15 @@ The tool is available at the following address:  https://desolate-tundra-15287.h
 │   └── jupyter notebooks
 └── requirements.txt
 ```
-**app**
 
 - `app.py:` the main python file describing the tool
 - `Procfile:` a file to provide necessary parameters to deploy the app 
 - `requirements.txt:` straightforward
-- `data:` folder containing the required data (after cleaning) and the departement patches to display the departements on the map. Note that we have kept the patches for all the departements in case we would like to extend this tool to another region. 
+- `data:` folder containing the required data (after cleaning) and the departement patches to display the departements on the map. Note that we have kept the patches for all the French departements in case we would like to extend this tool to another region. 
 
 **data cleaning**
 
-- `api_key_geocoding.txt:` the api to access the API that help us to retrieve the city and other geo infos from the coordinates.
+- `api_key_geocoding.txt:` the api key to access the API that help us to retrieve the city and other geo infos from the coordinates.
 - `get_cities_from_coords.py:` the python script to get the geo infos from the coordinates 
 - `data versions afters cleaning:` are just checkpoint of the data after each cleaning steps
 - `initial documents:` the raw excel after getting the data from the source
